@@ -1,0 +1,2820 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="overdues.xsl"?>
+<file type="notice" date="1/7/2013" time="12:29:21">
+	<agency name="MLC">
+		<notice type='overdue' count='30day'>
+			<patron>
+				<id type="barcode">23230001058748</id>
+				<fullname>BRENDA L. RICHARDS</fullname>
+				<street1>3979 LONG POINT BLVD. </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703</city_state_zip>
+				<sys_id>110237</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Sprinkle with murder </title>
+				<author>McKinlay, Jenn.</author>
+				<duedate>12/7/2012</duedate>
+				<callno>MCKINLAY, JENN </callno>
+				<location>LARGE TYPE FICTION</location>
+				<barcode>33230006271815</barcode>
+				<circ_id>285029</circ_id>
+				<check_out>11/23/2012</check_out>
+				<item_price>25.95</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230000500971</id>
+				<fullname>RAYMOND M. BRYANT</fullname>
+				<street1>325 DINWIDDIE STREET </street1>
+				<city_state_zip>PORTSMOUTH, VA 23704</city_state_zip>
+				<sys_id>2796</sys_id>
+			</patron>
+			<library>
+				<libname>Main Library</libname>
+				<libphone></libphone>
+				<libstreet1>601 Court St </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23704</libcity_state_zip>
+			</library>
+			<item>
+				<title>The threat : inside the Soviet military machine</title>
+				<author>Cockburn, Andrew</author>
+				<duedate>12/17/2012</duedate>
+				<callno>355.0947 Co 1</callno>
+				<location>NONFICTION</location>
+				<barcode>33230001445729</barcode>
+				<circ_id>294144</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>16.45</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230002067706</id>
+				<fullname>LAKESHIA L. HARRISON</fullname>
+				<street1>1112 VIRGINIA AVE APT G </street1>
+				<city_state_zip>PORTSMOUTH, VA 23707</city_state_zip>
+				<sys_id>6865</sys_id>
+			</patron>
+			<library>
+				<libname>Main Library</libname>
+				<libphone></libphone>
+				<libstreet1>601 Court St </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23704</libcity_state_zip>
+			</library>
+			<item>
+				<title>If you take a mouse to the movies </title>
+				<author>Numeroff, Laura Joffe.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>NUMEROFF </callno>
+				<location>EASY</location>
+				<barcode>33230006269587</barcode>
+				<circ_id>294721</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>16.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Babymouse : burns rubber!</title>
+				<author>Holm, Jennifer L.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>HOLM, JENNIFER </callno>
+				<location>J GRAPHIC NOVEL FICTION</location>
+				<barcode>33230006367811</barcode>
+				<circ_id>294723</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>5.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Nanny Fox and the Christmas surprise </title>
+				<author>Adams, Georgie.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>ADAMS 1</callno>
+				<location>EASY</location>
+				<barcode>33230004197483</barcode>
+				<circ_id>294722</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>14.95</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230000473591</id>
+				<fullname>GAIL (PATRICIA) FACENDA</fullname>
+				<street1>400 PENNINGTON BLVD. </street1>
+				<city_state_zip>PORTSMOUTH, VA 23701</city_state_zip>
+				<sys_id>18297</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Leave the grave green </title>
+				<author>Crombie, Deborah.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>CROMBIE, DEBORAH 1</callno>
+				<location>FICTION</location>
+				<barcode>33230003889593</barcode>
+				<circ_id>293872</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>20.00</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Kissed a sad goodbye</title>
+				<author>Crombie, Deborah.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>CROMBIE 1</callno>
+				<location>FICTION</location>
+				<barcode>33230004745984</barcode>
+				<circ_id>293871</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>23.95</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230000359436</id>
+				<fullname>JUSTINA G. BURGESS</fullname>
+				<street1>8 POINTE OF VIEW ARCH </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703</city_state_zip>
+				<sys_id>20049</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>A gangster and a gentleman</title>
+				<author>Swinson, Kiki.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>SWINSON, KIKI </callno>
+				<location>FICTION</location>
+				<barcode>33230007322195</barcode>
+				<circ_id>294815</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>15.00</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230000782546</id>
+				<fullname>HESTER M. ASKEW</fullname>
+				<street1>2849 TURNPIKE ROAD APT. D </street1>
+				<city_state_zip>PORTSMOUTH, VA 23707</city_state_zip>
+				<sys_id>30568</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Flesh and blood : dark desires : erotic tales of crime and passion</title>
+				<author>Collins, Max Allan.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>FLESH 1</callno>
+				<location>FICTION</location>
+				<barcode>33230005657295</barcode>
+				<circ_id>293539</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>13.01</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230000839551</id>
+				<fullname>PEGGY C. BRAGG</fullname>
+				<street1>4100 WYNDYBROW DRIVE </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703</city_state_zip>
+				<sys_id>40940</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>The woman at the light : a novel</title>
+				<author>Brady, Joanna.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>BRADY, JOANNA </callno>
+				<location>BOCD</location>
+				<barcode>33230010027922</barcode>
+				<circ_id>293454</circ_id>
+				<check_out>12/2/2012</check_out>
+				<item_price>29.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Lone wolf : a novel</title>
+				<author>Picoult, Jodi</author>
+				<duedate>12/17/2012</duedate>
+				<callno>PICOULT, JODI </callno>
+				<location>BOCD</location>
+				<barcode>33230010026882</barcode>
+				<circ_id>293456</circ_id>
+				<check_out>12/2/2012</check_out>
+				<item_price>39.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230000928131</id>
+				<fullname>KATHLEEN A. HUMPHREY</fullname>
+				<street1>5201 CRABTREE PLACE </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703</city_state_zip>
+				<sys_id>42812</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>You-- again : Baby Blessed : Yesterday Once More</title>
+				<author>Macomber, Debbie.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>MACOMBER, DEBBIE </callno>
+				<location>FICTION</location>
+				<barcode>33230010451304</barcode>
+				<circ_id>294848</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>7.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230001679824</id>
+				<fullname>MARQUITA  HILL</fullname>
+				<street1>1128 COLUMBIA STREET </street1>
+				<city_state_zip>PORTSMOUTH, VA 23704</city_state_zip>
+				<sys_id>43649</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>The man every woman wants</title>
+				<author>Lee, Miranda.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>LEE, MIRANDA </callno>
+				<location>LARGE TYPE FICTION</location>
+				<barcode>33230010450710</barcode>
+				<circ_id>294858</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>27.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230000365367</id>
+				<fullname>MELDON D. JENKINS- JONES</fullname>
+				<street1>1300 PIEDMONT AVE </street1>
+				<city_state_zip>PORTSMOUTH, VA 23704</city_state_zip>
+				<sys_id>48037</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>The starch solution : eat the foods you love, regain your health, and lose the weight for good!</title>
+				<author>McDougall, John A.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>641.5638 MCDOUGALL 2012 </callno>
+				<location>NONFICTION</location>
+				<barcode>33230007293966</barcode>
+				<circ_id>294685</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>26.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230000800470</id>
+				<fullname>JACQUELINE J. HARRIS</fullname>
+				<street1>3911 BREAKWATER DRIVE </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703</city_state_zip>
+				<sys_id>48403</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>The last stand : Custer, Sitting Bull, and the Battle of the Little Bighorn</title>
+				<author>Philbrick, Nathaniel.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>973.82 PHILBRICK 2010 </callno>
+				<location>NONFICTION</location>
+				<barcode>33230007171477</barcode>
+				<circ_id>294817</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>30.00</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230000298618</id>
+				<fullname>SHARLESE E FLOOD</fullname>
+				<street1>5627 GREGORY COURT </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703</city_state_zip>
+				<sys_id>49942</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Fox in socks</title>
+				<author>Seuss</author>
+				<duedate>12/17/2012</duedate>
+				<callno>SEUSS </callno>
+				<location>READY TO READ</location>
+				<barcode>33230010363020</barcode>
+				<circ_id>294425</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>8.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>The cat in the hat comes back!</title>
+				<author>Seuss</author>
+				<duedate>12/17/2012</duedate>
+				<callno>SEUSS </callno>
+				<location>READY TO READ</location>
+				<barcode>33230010068116</barcode>
+				<circ_id>294422</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>6.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Oh say can you say?</title>
+				<author>Seuss</author>
+				<duedate>12/17/2012</duedate>
+				<callno>SEUSS </callno>
+				<location>READY TO READ</location>
+				<barcode>33230010068108</barcode>
+				<circ_id>294423</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>6.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>I can read with my eyes shut</title>
+				<author>Seuss</author>
+				<duedate>12/17/2012</duedate>
+				<callno>SEUSS </callno>
+				<location>READY TO READ</location>
+				<barcode>33230010068124</barcode>
+				<circ_id>294424</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>8.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230002094320</id>
+				<fullname>MERIWETHER  BALL</fullname>
+				<street1>106 FLORIDA AVENUE </street1>
+				<city_state_zip>PORTSMOUTH, VA 23707</city_state_zip>
+				<sys_id>50408</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>By possession</title>
+				<author>Hunter, Madeline.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>HUNTER 1</callno>
+				<location>FICTION</location>
+				<barcode>33230006803120</barcode>
+				<circ_id>293752</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>4.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Long Spoon Lane : a novel / Anne Perry</title>
+				<author>Perry, Anne.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>PERRY 1</callno>
+				<location>FICTION</location>
+				<barcode>33230006134518</barcode>
+				<circ_id>293751</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>25.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>The charmer</title>
+				<author>Hunter, Madeline.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>HUNTER 1</callno>
+				<location>FICTION</location>
+				<barcode>33230005613611</barcode>
+				<circ_id>293753</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>5.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230000894291</id>
+				<fullname>SETH B.C. ALLISON</fullname>
+				<street1>3221 CLOVER HILL DRIVE </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703-4105</city_state_zip>
+				<sys_id>56274</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Darkspell : Katharine Kerr</title>
+				<author>Kerr, Katharine.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>KERR 1</callno>
+				<location>FICTION</location>
+				<barcode>33230002773871</barcode>
+				<circ_id>293562</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>17.95</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230000359360</id>
+				<fullname>KANISHA G. BURGESS</fullname>
+				<street1>8 POINTE OF VIEW ARCH </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703</city_state_zip>
+				<sys_id>61106</sys_id>
+			</patron>
+			<library>
+				<libname>Main Library</libname>
+				<libphone></libphone>
+				<libstreet1>601 Court St </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23704</libcity_state_zip>
+			</library>
+			<item>
+				<title>Max &amp; Ruby Summertime with Max &amp; Ruby</title>
+				<author>Morton, Samantha.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>MAX </callno>
+				<location>J DVD</location>
+				<barcode>33230010311821</barcode>
+				<circ_id>293853</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>16.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Wow! wow! Wubbzy! Wubbzy and the fire engine</title>
+				<author>Pennington, Ty</author>
+				<duedate>12/17/2012</duedate>
+				<callno>WOW </callno>
+				<location>J DVD</location>
+				<barcode>33230009021381</barcode>
+				<circ_id>293849</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>13.59</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Dinosaur dances</title>
+				<author>Yolen, Jane.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>Yo 1</callno>
+				<location>EASY</location>
+				<barcode>33230003106535</barcode>
+				<circ_id>293850</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>14.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Max &amp; Ruby Rainy day play</title>
+				<author></author>
+				<duedate>12/17/2012</duedate>
+				<callno>MAX </callno>
+				<location>J DVD</location>
+				<barcode>33230009039029</barcode>
+				<circ_id>293851</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>11.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Weekends with Dad : what to expect when your parents divorce</title>
+				<author>Higgins, Melissa</author>
+				<duedate>12/17/2012</duedate>
+				<callno>HIGGINS </callno>
+				<location>EASY</location>
+				<barcode>33230007260262</barcode>
+				<circ_id>293852</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>25.32</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Wiggle waggle fun : stories and rhymes for the very very young</title>
+				<author>Mayo, Margaret.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>MAYO </callno>
+				<location>EASY</location>
+				<barcode>33230006611770</barcode>
+				<circ_id>293848</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>16.95</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230002029102</id>
+				<fullname>SUMNER N. WYLIE</fullname>
+				<street1>23 GILLIS ROAD </street1>
+				<city_state_zip>PORTSMOUTH, VA 23702</city_state_zip>
+				<sys_id>71917</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Ella enchanted </title>
+				<author>Levine, Gail Carson.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>LEVINE, GAIL 1</callno>
+				<location>J FICTION</location>
+				<barcode>33230004357830</barcode>
+				<circ_id>294260</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>14.89</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>The fairy's mistake</title>
+				<author>Levine, Gail Carson.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>LEVINE 1</callno>
+				<location>J FICTION</location>
+				<barcode>33230004807834</barcode>
+				<circ_id>294261</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>8.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>The case of Clue's circus caper</title>
+				<author>Katschke, Judy.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>Katschke 2</callno>
+				<location>J FICTION</location>
+				<barcode>33230005559996</barcode>
+				<circ_id>294259</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>4.50</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>The carnivorous carnival</title>
+				<author>Snicket, Lemony.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>SNICKET, LEMONY 1</callno>
+				<location>J FICTION</location>
+				<barcode>33230005815182</barcode>
+				<circ_id>294264</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>11.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230002080113</id>
+				<fullname>DORIS A. HAMILTON</fullname>
+				<street1>3405 TREXLER AVE </street1>
+				<city_state_zip>PORTSMOUTH, VA 23704</city_state_zip>
+				<sys_id>78877</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>The ultimate digital-stereo sound effects library : machines and movements : 99 SFX Volume 1</title>
+				<author></author>
+				<duedate>12/17/2012</duedate>
+				<callno>792.02 ULTIMATE 1</callno>
+				<location>CD MUSIC</location>
+				<barcode>33230005697168</barcode>
+				<circ_id>294919</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>15.98</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Inside nature's giants Monster python</title>
+				<author>Evans, Mark</author>
+				<duedate>12/17/2012</duedate>
+				<callno>571.31796 INSIDE 2012 </callno>
+				<location>DVD</location>
+				<barcode>33230009033824</barcode>
+				<circ_id>294920</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>19.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230000880753</id>
+				<fullname>THOMAS  MARKS</fullname>
+				<street1>5009 BRIDGES AVENUE </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703</city_state_zip>
+				<sys_id>82986</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Stargate The ark of truth</title>
+				<author>Lenic, John G.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>STARGATE 3399 </callno>
+				<location>DVD</location>
+				<barcode>33230006003002</barcode>
+				<circ_id>294538</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>26.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230000697678</id>
+				<fullname>ALYSON F. LOCKE</fullname>
+				<street1>3613 HOSIERS OAKS DRIVE </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703</city_state_zip>
+				<sys_id>83192</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Gemma the gymnastics fairy </title>
+				<author>Meadows, Daisy.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>MEADOWS </callno>
+				<location>J FICTION</location>
+				<barcode>33230006285526</barcode>
+				<circ_id>294298</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>4.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Junie B. Jones and the mushy gushy valentime </title>
+				<author>Park, Barbara.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>PARK, BARBARA </callno>
+				<location>J FICTION</location>
+				<barcode>33230010330409</barcode>
+				<circ_id>294297</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>4.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230000776936</id>
+				<fullname>MARK H. BARNES</fullname>
+				<street1>4112 FORRESTHILLS DRIVE </street1>
+				<city_state_zip>(none), (none) 23703</city_state_zip>
+				<sys_id>91151</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Painless presentations : the proven, stress-free way to successful public speaking</title>
+				<author>Laskowski, Lenny.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>808.51 LASKOWSKI 2012 </callno>
+				<location>NONFICTION</location>
+				<barcode>33230007322658</barcode>
+				<circ_id>293468</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>19.95</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230000768818</id>
+				<fullname>KALEN C. ANDERSON</fullname>
+				<street1>4232 THISTLE DRIVE </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703</city_state_zip>
+				<sys_id>93385</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Ripley's believe it or not! : enter if you dare</title>
+				<author>Tibballs, Geoff.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>031.02 TIBBALLS 2010 </callno>
+				<location>J NONFICTION</location>
+				<barcode>33230007289600</barcode>
+				<circ_id>294588</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>28.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>One million things : a visual encyclopedia</title>
+				<author>Bryan, Kim.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>031ONE 2008 </callno>
+				<location>J NONFICTION</location>
+				<barcode>33230007239696</barcode>
+				<circ_id>294589</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>24.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230000893442</id>
+				<fullname>ERIC P. HENRY</fullname>
+				<street1>1032 ESTATES COURT </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703</city_state_zip>
+				<sys_id>97364</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Life expectancy</title>
+				<author>Koontz, Dean R. (Dean Ray)</author>
+				<duedate>12/17/2012</duedate>
+				<callno>KOONTZ, DEAN 1</callno>
+				<location>FICTION</location>
+				<barcode>33230010311425</barcode>
+				<circ_id>294460</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>27.00</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230000922142</id>
+				<fullname>BARBARA J. SPEIGHT</fullname>
+				<street1>5117 WARRINGTON DR </street1>
+				<city_state_zip>SUFFOLK, VA 23435</city_state_zip>
+				<sys_id>99132</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>The Paris wife : a novel</title>
+				<author>McLain, Paula.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>MCLAIN, PAULA </callno>
+				<location>FICTION</location>
+				<barcode>33230007211752</barcode>
+				<circ_id>294862</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>25.00</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230002108674</id>
+				<fullname>TONIKA M. BROADNAX</fullname>
+				<street1>1700 A. STREET </street1>
+				<city_state_zip>PORTSMOUTH, VA 23704</city_state_zip>
+				<sys_id>101343</sys_id>
+			</patron>
+			<library>
+				<libname>Main Library</libname>
+				<libphone></libphone>
+				<libstreet1>601 Court St </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23704</libcity_state_zip>
+			</library>
+			<item>
+				<title>Vote for love</title>
+				<author>Bunkley, Anita R. (Anita Richmond)</author>
+				<duedate>12/17/2012</duedate>
+				<callno>BUNKLEY, ANITA </callno>
+				<location>FICTION</location>
+				<barcode>33230007145380</barcode>
+				<circ_id>293893</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>6.25</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230002109318</id>
+				<fullname>TRESHA S. WHITE</fullname>
+				<street1>3630 GATEWAY DR. APT 1B </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703</city_state_zip>
+				<sys_id>101517</sys_id>
+			</patron>
+			<library>
+				<libname>Main Library</libname>
+				<libphone></libphone>
+				<libstreet1>601 Court St </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23704</libcity_state_zip>
+			</library>
+			<item>
+				<title>Tryin' to sleep in the bed you made </title>
+				<author>DeBerry, Virginia.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>DeBERRY 1</callno>
+				<location>MP3/BOCD</location>
+				<barcode>33230005792092</barcode>
+				<circ_id>294707</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>39.25</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Resurrecting midnight</title>
+				<author>Dickey, Eric Jerome.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>DICKEY </callno>
+				<location>BOCD</location>
+				<barcode>33230005442581</barcode>
+				<circ_id>294706</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>36.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Amelia Bedelia, bookworm </title>
+				<author>Parish, Herman.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>PARISH </callno>
+				<location>READY TO READ</location>
+				<barcode>33230006740561</barcode>
+				<circ_id>294708</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>16.89</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Tigers</title>
+				<author>Thomson, Sarah L.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>THOMSON 1</callno>
+				<location>READY TO READ</location>
+				<barcode>33230006535201</barcode>
+				<circ_id>294714</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>15.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230000935342</id>
+				<fullname>GABRIELLE E. WILSON</fullname>
+				<street1>5524 GREENBROOK DR. </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703</city_state_zip>
+				<sys_id>101531</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>The little green dragon steps out</title>
+				<author>Baumgart, Klaus.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>BAUMGART 1</callno>
+				<location>EASY</location>
+				<barcode>33230005014265</barcode>
+				<circ_id>294847</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>12.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Tap dance fever</title>
+				<author>Brisson, Pat.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>BRISSON 1</callno>
+				<location>EASY</location>
+				<barcode>33230005832492</barcode>
+				<circ_id>294846</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>15.95</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230001006663</id>
+				<fullname>DARLENE F. MAGLIO</fullname>
+				<street1>535 MARYLAND AVENUE </street1>
+				<city_state_zip>PORTSMOUTH, VA 23707</city_state_zip>
+				<sys_id>103556</sys_id>
+			</patron>
+			<library>
+				<libname>Main Library</libname>
+				<libphone></libphone>
+				<libstreet1>601 Court St </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23704</libcity_state_zip>
+			</library>
+			<item>
+				<title>Christmas with Southern Living 2011 : savor * entertain * decorate * share</title>
+				<author>Southern Living Magazine</author>
+				<duedate>12/17/2012</duedate>
+				<callno>394 CHRISTMAS 2011 </callno>
+				<location>NONFICTION</location>
+				<barcode>33230007244100</barcode>
+				<circ_id>293835</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>29.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Easy &amp; elegant Christmas crafts : 25 simple projects with step-to-step instructions</title>
+				<author>Schneebeli-Morrell, Deborah.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>745.5941 Sc 1</callno>
+				<location>NONFICTION</location>
+				<barcode>33230004698597</barcode>
+				<circ_id>293834</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>24.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Leisure Arts presents The spirit of Christmas </title>
+				<author>Leisure Arts, Inc</author>
+				<duedate>12/17/2012</duedate>
+				<callno>745.594 LEISURE 1;V.19</callno>
+				<location>NONFICTION</location>
+				<barcode>33230005818277</barcode>
+				<circ_id>293833</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>19.95</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230001002357</id>
+				<fullname>GARRY A. EVINS</fullname>
+				<street1>4806 HIGHT ST </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703</city_state_zip>
+				<sys_id>107109</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Blazing saddles </title>
+				<author>Brooks, Mel</author>
+				<duedate>12/17/2012</duedate>
+				<callno>BLAZING </callno>
+				<location>DVD</location>
+				<barcode>33230009037874</barcode>
+				<circ_id>293500</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>5.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230002095350</id>
+				<fullname>ALEXIS R MOODY</fullname>
+				<street1>621 SURRY ST. </street1>
+				<city_state_zip>PORTSMOUTH, VA 23702</city_state_zip>
+				<sys_id>107350</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>The help</title>
+				<author>Stockett, Kathryn.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>STOCKETT, KATHRYN </callno>
+				<location>FICTION</location>
+				<barcode>33230006260123</barcode>
+				<circ_id>294550</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>24.95</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230002095392</id>
+				<fullname>ALEXANDER R. MOODY</fullname>
+				<street1>621 SURRY ST. </street1>
+				<city_state_zip>PORTSMOUTH, VA 23707</city_state_zip>
+				<sys_id>107351</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Wolf Man Stu bites back</title>
+				<author>Martin, Paul.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>MARTIN 1</callno>
+				<location>J FICTION</location>
+				<barcode>33230006025229</barcode>
+				<circ_id>294487</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>13.96</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230001035217</id>
+				<fullname>ARTHUR W.JR. REAVIS</fullname>
+				<street1>502 NOTTINGHAM ROAD </street1>
+				<city_state_zip>PORTSMOUTH, VA 23701</city_state_zip>
+				<sys_id>108063</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Sherlock Holmes</title>
+				<author>Downey, Robert</author>
+				<duedate>12/17/2012</duedate>
+				<callno>SHERLOCK </callno>
+				<location>DVD</location>
+				<barcode>33230006276657</barcode>
+				<circ_id>293801</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>21.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Knight and day</title>
+				<author>Diaz, Cameron.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>KNIGHT </callno>
+				<location>DVD</location>
+				<barcode>33230010021594</barcode>
+				<circ_id>293799</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>22.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230001052667</id>
+				<fullname>RAY Q. SMITH</fullname>
+				<street1>5812 CRANEYBROOK LANE </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703</city_state_zip>
+				<sys_id>108334</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>The case of the crooked campaign</title>
+				<author>Montgomery, Lewis B.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>MONTGOMERY, LEWIS </callno>
+				<location>J FICTION</location>
+				<barcode>33230008017554</barcode>
+				<circ_id>293452</circ_id>
+				<check_out>12/2/2012</check_out>
+				<item_price>6.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>How cool is this?</title>
+				<author></author>
+				<duedate>12/17/2012</duedate>
+				<callno>600 HOW 2011 </callno>
+				<location>J NONFICTION</location>
+				<barcode>33230007244787</barcode>
+				<circ_id>293451</circ_id>
+				<check_out>12/2/2012</check_out>
+				<item_price>15.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Body science</title>
+				<author>Cracknell, James</author>
+				<duedate>12/17/2012</duedate>
+				<callno>612 CRACKNELL </callno>
+				<location>J NONFICTION</location>
+				<barcode>33230007136751</barcode>
+				<circ_id>293450</circ_id>
+				<check_out>12/2/2012</check_out>
+				<item_price>19.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230001014741</id>
+				<fullname>JASMINE D. JENKINS</fullname>
+				<street1>3762 DEEP CREEK BLVD. </street1>
+				<city_state_zip>PORTSMOUTH, VA 23702</city_state_zip>
+				<sys_id>109252</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Mind your own business</title>
+				<author>Lovely, Lutishia.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>LOVELY, LUTISHIA 1</callno>
+				<location>FICTION</location>
+				<barcode>33230007256807</barcode>
+				<circ_id>294233</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>15.00</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Sex and the city 2 : the movie</title>
+				<author>King, Michael Patrick</author>
+				<duedate>12/17/2012</duedate>
+				<callno>SEX 2010 2</callno>
+				<location>DVD</location>
+				<barcode>33230006475234</barcode>
+				<circ_id>294230</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>28.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Sex and the city : the movie</title>
+				<author>Parker, Sarah Jessica.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>SEX 2</callno>
+				<location>DVD</location>
+				<barcode>33230006128569</barcode>
+				<circ_id>294231</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>28.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>The reverend's wife : a novel</title>
+				<author>Roby, Kimberla Lawson.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>ROBY, KIMBERLA 1</callno>
+				<location>FICTION</location>
+				<barcode>33230006842839</barcode>
+				<circ_id>294238</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>24.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Full figured</title>
+				<author>Hampton, Brenda (Brenda M.)</author>
+				<duedate>12/17/2012</duedate>
+				<callno>FULL FIGURED V.1 </callno>
+				<location>FICTION</location>
+				<barcode>33230007178605</barcode>
+				<circ_id>294235</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>14.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>School for scoundrels </title>
+				<author>Phillips, Todd</author>
+				<duedate>12/17/2012</duedate>
+				<callno>SCHOOL 1</callno>
+				<location>DVD</location>
+				<barcode>33230006660678</barcode>
+				<circ_id>294232</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>15.01</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230002276638</id>
+				<fullname>LEVARIAH D. RYLAND</fullname>
+				<street1>1605 PRENTIS AVE </street1>
+				<city_state_zip>PORTSMOUTH, VA 23704</city_state_zip>
+				<sys_id>111145</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Homeland </title>
+				<author>Jakes, John</author>
+				<duedate>12/17/2012</duedate>
+				<callno>JAKES 1</callno>
+				<location>FICTION</location>
+				<barcode>33230003554122</barcode>
+				<circ_id>294820</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>25.00</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Bloodsucking fiends : a love story</title>
+				<author>Moore, Christopher</author>
+				<duedate>12/17/2012</duedate>
+				<callno>MOORE, CHRISTOPHER </callno>
+				<location>FICTION</location>
+				<barcode>33230007102001</barcode>
+				<circ_id>294821</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>14.00</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230002033419</id>
+				<fullname>JAMES A. YODER</fullname>
+				<street1>17 LOXLEY ROAD </street1>
+				<city_state_zip>PORTSMOUTH, VA 23702-1809</city_state_zip>
+				<sys_id>111985</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Capturing mood, ambience &amp; dramatic effects : the dynamic language of digital photography</title>
+				<author>Meehan, Joseph.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>775 MEEHAN </callno>
+				<location>NONFICTION</location>
+				<barcode>33230007121175</barcode>
+				<circ_id>294202</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>29.95</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230002026959</id>
+				<fullname>NICOLE L. AMBROSE</fullname>
+				<street1>327 WASHINGTON ST. APT. C4 </street1>
+				<city_state_zip>PORTSMOUTH, VA 23704</city_state_zip>
+				<sys_id>112215</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>She's come undone </title>
+				<author>Lamb, Wally.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>LAMB 1</callno>
+				<location>FICTION</location>
+				<barcode>33230006215424</barcode>
+				<circ_id>293443</circ_id>
+				<check_out>12/2/2012</check_out>
+				<item_price>7.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230002058127</id>
+				<fullname>TAMIKA L. PAYNE</fullname>
+				<street1>3321 ARMISTEAD DR. </street1>
+				<city_state_zip>PORTSMOUTH, VA 23704</city_state_zip>
+				<sys_id>113046</sys_id>
+			</patron>
+			<library>
+				<libname>Main Library</libname>
+				<libphone></libphone>
+				<libstreet1>601 Court St </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23704</libcity_state_zip>
+			</library>
+			<item>
+				<title>Conviction</title>
+				<author>Swank, Hilary.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>CONVICTION </callno>
+				<location>DVD</location>
+				<barcode>33230009007893</barcode>
+				<circ_id>293667</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>29.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230002038954</id>
+				<fullname>DAIMEN D. BROWN</fullname>
+				<street1>6213 CENTENARY DR APT. #B </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703</city_state_zip>
+				<sys_id>113217</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>The ruins of Gorlan</title>
+				<author>Flanagan, John (John Anthony)</author>
+				<duedate>12/17/2012</duedate>
+				<callno>FLANAGAN, JOHN </callno>
+				<location>J FICTION</location>
+				<barcode>33230007157369</barcode>
+				<circ_id>294877</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>7.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Magyk</title>
+				<author>Sage, Angie.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>SAGE 1</callno>
+				<location>J FICTION</location>
+				<barcode>33230006756666</barcode>
+				<circ_id>294878</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>7.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230002053482</id>
+				<fullname>KATE E. FEIST</fullname>
+				<street1>2313 STERLING PT DR </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703</city_state_zip>
+				<sys_id>113309</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Wolf Hall : a novel</title>
+				<author>Mantel, Hilary</author>
+				<duedate>12/17/2012</duedate>
+				<callno>MANTEL, HILARY </callno>
+				<location>FICTION</location>
+				<barcode>33230007137924</barcode>
+				<circ_id>293558</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>27.00</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230002089593</id>
+				<fullname>ISAIAH D BOOK</fullname>
+				<street1>209 MARYLAND AVENUE </street1>
+				<city_state_zip>PORTSMOUTH, VA 23707</city_state_zip>
+				<sys_id>114305</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Piglet is entirely surrounded by water </title>
+				<author>Milne, A. A. (Alan Alexander)</author>
+				<duedate>12/17/2012</duedate>
+				<callno>MILNE 1</callno>
+				<location>BOARD BOOK</location>
+				<barcode>33230005758309</barcode>
+				<circ_id>293630</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>4.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Little Tractor and friends </title>
+				<author>Sirett, Dawn.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>SIRETT </callno>
+				<location>BOARD BOOK</location>
+				<barcode>33230007163599</barcode>
+				<circ_id>293635</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>12.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Disney's Winnie the Pooh's school days </title>
+				<author></author>
+				<duedate>12/17/2012</duedate>
+				<callno>DISNEY'S </callno>
+				<location>EASY</location>
+				<barcode>33230010317398</barcode>
+				<circ_id>293632</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>9.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Same and different</title>
+				<author>National Geographic Society (U.S.)</author>
+				<duedate>12/17/2012</duedate>
+				<callno>SAME </callno>
+				<location>BOARD BOOK</location>
+				<barcode>33230007324969</barcode>
+				<circ_id>293636</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>6.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Pooh's jingle bells </title>
+				<author>Zoehfeld, Kathleen Weidner.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>ZOEHFELD 1</callno>
+				<location>EASY</location>
+				<barcode>33230004683847</barcode>
+				<circ_id>293628</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>11.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Truck party!</title>
+				<author>Salzano, Tammi J.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>SALZANO </callno>
+				<location>BOARD BOOK</location>
+				<barcode>33230007269883</barcode>
+				<circ_id>293627</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>7.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Bizzy Bear : let's get to work!</title>
+				<author>Davies, Benji.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>DAVIES </callno>
+				<location>BOARD BOOK</location>
+				<barcode>33230007290087</barcode>
+				<circ_id>293626</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>6.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Annie and Snowball and the shining star : the sixth book of their adventures</title>
+				<author>Rylant, Cynthia.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>RYLANT </callno>
+				<location>READY TO READ</location>
+				<barcode>33230008001194</barcode>
+				<circ_id>293621</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>3.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>' Twas the night before Christmas</title>
+				<author>Hildebrandt, Greg</author>
+				<duedate>12/17/2012</duedate>
+				<callno>'TWAS 1</callno>
+				<location>EASY</location>
+				<barcode>33230005880079</barcode>
+				<circ_id>293620</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>10.00</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Good night, I love you</title>
+				<author>Church, Caroline.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>CHURCH </callno>
+				<location>BOARD BOOK</location>
+				<barcode>33230007290343</barcode>
+				<circ_id>293619</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>8.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Be quiet, Pooh</title>
+				<author>Gaines, Isabel.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>GAINES </callno>
+				<location>READY TO READ</location>
+				<barcode>33230006608347</barcode>
+				<circ_id>293618</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>3.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>The Berenstain Bears and the tic-tac-toe mystery</title>
+				<author>Berenstain, Stan</author>
+				<duedate>12/17/2012</duedate>
+				<callno>BERENSTAIN </callno>
+				<location>READY TO READ</location>
+				<barcode>33230006272821</barcode>
+				<circ_id>293617</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>3.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Merry Christmas, merry crow</title>
+				<author>Appelt, Kathi</author>
+				<duedate>12/17/2012</duedate>
+				<callno>APPELT </callno>
+				<location>EASY</location>
+				<barcode>33230007149556</barcode>
+				<circ_id>293629</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>16.00</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>The bears' Christmas / by Stan and Jan Berenstain</title>
+				<author>Berenstain, Stan</author>
+				<duedate>12/17/2012</duedate>
+				<callno>BERENSTAIN 3</callno>
+				<location>READY TO READ</location>
+				<barcode>33230005941327</barcode>
+				<circ_id>293634</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>3.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Knut : the baby polar bear</title>
+				<author>Hatkoff, Isabella.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>KNUT </callno>
+				<location>BOARD BOOK</location>
+				<barcode>33230007084258</barcode>
+				<circ_id>293633</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>6.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Pooh gets stuck</title>
+				<author>Gaines, Isabel.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>GAINES </callno>
+				<location>READY TO READ</location>
+				<barcode>33230005906932</barcode>
+				<circ_id>293536</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>3.95</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230002092456</id>
+				<fullname>LEVAR S. RYLAND</fullname>
+				<street1>1605 PRENTIS AVE </street1>
+				<city_state_zip>PORTSMOUTH, VA 23704</city_state_zip>
+				<sys_id>114402</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Murder plays house </title>
+				<author>Waldman, Ayelet.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>WALDMAN 1</callno>
+				<location>FICTION</location>
+				<barcode>33230006805760</barcode>
+				<circ_id>294819</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>7.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Zombies of the gene pool </title>
+				<author>McCrumb, Sharyn</author>
+				<duedate>12/17/2012</duedate>
+				<callno>MCCRUMB 1</callno>
+				<location>FICTION</location>
+				<barcode>33230003321449</barcode>
+				<circ_id>294818</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>18.00</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230002276646</id>
+				<fullname>ANTWAUN D. POWELL</fullname>
+				<street1>1605 PRENTIS AVE </street1>
+				<city_state_zip>PORTSMOUTH, VA 23704</city_state_zip>
+				<sys_id>114655</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>The zombie project</title>
+				<author>Warner, Gertrude Chandler</author>
+				<duedate>12/17/2012</duedate>
+				<callno>WARNER, GERTRUDE </callno>
+				<location>J FICTION</location>
+				<barcode>33230008008256</barcode>
+				<circ_id>294838</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>4.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>The giant yo-yo mystery</title>
+				<author>Warner, Gertrude Chandler</author>
+				<duedate>12/17/2012</duedate>
+				<callno>WARNER 1</callno>
+				<location>J FICTION</location>
+				<barcode>33230006539971</barcode>
+				<circ_id>294837</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>4.50</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230002080147</id>
+				<fullname>JHADI  CHAMPTAL</fullname>
+				<street1>3704 TOWNE POINT RD APT A </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703</city_state_zip>
+				<sys_id>115629</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>The amazing octopus</title>
+				<author>Kalman, Bobbie.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>594.56 KALMAN </callno>
+				<location>J NONFICTION</location>
+				<barcode>33230006776235</barcode>
+				<circ_id>293754</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>25.20</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230002040562</id>
+				<fullname>JACYNTHIA M. HUNTER-GAYE</fullname>
+				<street1>40 MERRIMAC DRIVE </street1>
+				<city_state_zip>PORTSMOUTH, VA 23704</city_state_zip>
+				<sys_id>116356</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Santa Claus is coming to town </title>
+				<author></author>
+				<duedate>12/17/2012</duedate>
+				<callno>SANTA 24 1</callno>
+				<location>J VIDEO</location>
+				<barcode>33230006063758</barcode>
+				<circ_id>294221</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>9.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230002066484</id>
+				<fullname>NEVAEH P FLIPPEN-PERRY</fullname>
+				<street1>6 BUCHANAN AVE UNIT 65 </street1>
+				<city_state_zip>PORTSMOUTH, VA 23704</city_state_zip>
+				<sys_id>116681</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Moo in the morning </title>
+				<author>Maitland, Barbara.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>MAITLAND 1</callno>
+				<location>EASY</location>
+				<barcode>33230005030501</barcode>
+				<circ_id>294142</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>16.00</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230002068316</id>
+				<fullname>LORENZO S. BRANTLEY</fullname>
+				<street1>3784 TOWNE POINTE ROAD, APT. G </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703</city_state_zip>
+				<sys_id>116704</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Fighting</title>
+				<author>Misher, Kevin.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>FIGHTING </callno>
+				<location>DVD</location>
+				<barcode>33230005442458</barcode>
+				<circ_id>294116</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>29.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230002093389</id>
+				<fullname>KAEMON D. POWELL</fullname>
+				<street1>1383 LAWSON CIRCLE </street1>
+				<city_state_zip>SUFFOLK, VA 23434</city_state_zip>
+				<sys_id>116927</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Buried treasure : all about using a map</title>
+				<author>Hall, Kirsten.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>HALL 1</callno>
+				<location>READY TO READ</location>
+				<barcode>33230005881077</barcode>
+				<circ_id>294778</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>18.50</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Michael Jackson : king of pop</title>
+				<author>Pratt, Mary K.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>JACKSON, MICHAEL </callno>
+				<location>J BIOGRAPHY</location>
+				<barcode>33230007180817</barcode>
+				<circ_id>294770</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>32.79</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Olivia trains her cat</title>
+				<author>Albee, Sarah.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>ALBEE </callno>
+				<location>READY TO READ</location>
+				<barcode>33230006264463</barcode>
+				<circ_id>294775</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>3.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Road race</title>
+				<author>Crow, Melinda Melton.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>CROW </callno>
+				<location>READY TO READ</location>
+				<barcode>33230006251213</barcode>
+				<circ_id>294776</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>21.32</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>The Berenstain Bears and the shaggy little pony</title>
+				<author>Berenstain, Jan</author>
+				<duedate>12/17/2012</duedate>
+				<callno>BERENSTAIN </callno>
+				<location>READY TO READ</location>
+				<barcode>33230008008165</barcode>
+				<circ_id>294777</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>3.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Danny and the dinosaur </title>
+				<author>Hoff, Syd</author>
+				<duedate>12/17/2012</duedate>
+				<callno>HOFF </callno>
+				<location>READY TO READ</location>
+				<barcode>33230006763357</barcode>
+				<circ_id>294779</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>15.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Mud mess</title>
+				<author>Crow, Melinda Melton.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>CROW </callno>
+				<location>READY TO READ</location>
+				<barcode>33230006251205</barcode>
+				<circ_id>294773</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>21.32</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Spin : the story of Michael Jackson</title>
+				<author>O'Keefe, Sherry.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>JACKSON, MICHAEL </callno>
+				<location>J BIOGRAPHY</location>
+				<barcode>33230007215514</barcode>
+				<circ_id>294772</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>28.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Janet Jackson</title>
+				<author>Dyson, Cindy.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>Jackson Janet 2</callno>
+				<location>J BIOGRAPHY</location>
+				<barcode>33230004987024</barcode>
+				<circ_id>294771</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>19.95</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230002093371</id>
+				<fullname>KEON J. WIGGINS-SAUNDERS</fullname>
+				<street1>1383 LAWSON CIRCLE </street1>
+				<city_state_zip>SUFFOLK, VA 23434</city_state_zip>
+				<sys_id>116928</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>A world of cake : 150 recipes for sweet traditions : from cultures near and far</title>
+				<author>Castella, Krystina.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>641.8653 CASTELLA 2010 </callno>
+				<location>NONFICTION</location>
+				<barcode>33230007188000</barcode>
+				<circ_id>294785</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>24.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>The women's small business start-up kit : a step-by-step legal guide</title>
+				<author>Pakroo, Peri.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>658.1108 PAKROO 2012 </callno>
+				<location>NONFICTION</location>
+				<barcode>33230007298510</barcode>
+				<circ_id>294784</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>29.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Customer service for dummies</title>
+				<author>Leland, Karen.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>658.8 Le 1</callno>
+				<location>NONFICTION</location>
+				<barcode>33230005260918</barcode>
+				<circ_id>294786</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>10.01</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Starting &amp; building a nonprofit : a practical guide</title>
+				<author>Pakroo, Peri.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>658.048 PAKROO 2011 </callno>
+				<location>NONFICTION</location>
+				<barcode>33230010013237</barcode>
+				<circ_id>294787</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>34.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>QuickBooks 2011 for dummies</title>
+				<author>Nelson, Stephen L.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>657.9042 NELSON 2011 </callno>
+				<location>NONFICTION</location>
+				<barcode>33230007193869</barcode>
+				<circ_id>294790</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>24.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Peyton Manning : precision passer</title>
+				<author>Savage, Jeff</author>
+				<duedate>12/17/2012</duedate>
+				<callno>Manning, Peyton 1</callno>
+				<location>J BIOGRAPHY</location>
+				<barcode>33230005315316</barcode>
+				<circ_id>294782</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>22.50</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Frederick Douglass </title>
+				<author>Russell, Sharman Apt.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>Douglass Frederick 1</callno>
+				<location>J BIOGRAPHY</location>
+				<barcode>33230002476970</barcode>
+				<circ_id>294783</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>16.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Managing for dummies</title>
+				<author>Nelson, Bob</author>
+				<duedate>12/17/2012</duedate>
+				<callno>658 NELSON 2010 </callno>
+				<location>NONFICTION</location>
+				<barcode>33230007211398</barcode>
+				<circ_id>294789</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>21.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230000903431</id>
+				<fullname>  HARRELL. KELVIN A.</fullname>
+				<street1>1218 DARREN DRIVE </street1>
+				<city_state_zip>PORTSMOUTH, VA 23701</city_state_zip>
+				<sys_id>117076</sys_id>
+			</patron>
+			<library>
+				<libname>Main Library</libname>
+				<libphone></libphone>
+				<libstreet1>601 Court St </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23704</libcity_state_zip>
+			</library>
+			<item>
+				<title>Resumes for dummies</title>
+				<author>Kennedy, Joyce Lain.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>650.142 KENNEDY 2011 </callno>
+				<location>NONFICTION</location>
+				<barcode>33230007211620</barcode>
+				<circ_id>293905</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>16.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Knock 'em dead resumes : standout advice from America's leading job search authority</title>
+				<author>Yate, Martin John.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>650.142 YATE 2010 </callno>
+				<location>NONFICTION</location>
+				<barcode>33230007186368</barcode>
+				<circ_id>293906</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>12.95</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='21day'>
+			<patron>
+				<id type="barcode">23230002276695</id>
+				<fullname>GEVONYA A. EVANS-FENNELL</fullname>
+				<street1>4511 SOUTHAMPTON ARCH </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703</city_state_zip>
+				<sys_id>174207</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Apollo 11 rockets to first moon landing : A Myreportlinks.Com Book</title>
+				<author>Green, Carl R.</author>
+				<duedate>12/17/2012</duedate>
+				<callno>629.454 GREEN </callno>
+				<location>J NONFICTION</location>
+				<barcode>33230006776284</barcode>
+				<circ_id>294853</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>25.26</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>The space race</title>
+				<author>Benoit, Peter</author>
+				<duedate>12/17/2012</duedate>
+				<callno>629.4109 BENOIT 2012 </callno>
+				<location>J NONFICTION</location>
+				<barcode>33230007294238</barcode>
+				<circ_id>294854</circ_id>
+				<check_out>12/3/2012</check_out>
+				<item_price>30.00</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='30day'>
+			<patron>
+				<id type="barcode">23230000933172</id>
+				<fullname>BREONA  MERRELL</fullname>
+				<street1>209 DALE DRIVE </street1>
+				<city_state_zip>PORTSMOUTH, VA 23704</city_state_zip>
+				<sys_id>21535</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Kitty Cat, Kitty Cat, are you going to sleep? </title>
+				<author>Martin, Bill</author>
+				<duedate>12/8/2012</duedate>
+				<callno>MARTIN </callno>
+				<location>EASY</location>
+				<barcode>33230007226297</barcode>
+				<circ_id>286019</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>15.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='30day'>
+			<patron>
+				<id type="barcode">23230002079867</id>
+				<fullname>RUTH B. GLASER</fullname>
+				<street1>4425 GREENDELL ROAD </street1>
+				<city_state_zip>CHESAPEAKE, VA 23321</city_state_zip>
+				<sys_id>26172</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Wintersmith</title>
+				<author>Pratchett, Terry.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>PRATCHETT 1</callno>
+				<location>YA FICTION</location>
+				<barcode>33230006761344</barcode>
+				<circ_id>285710</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>16.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='30day'>
+			<patron>
+				<id type="barcode">23230002020820</id>
+				<fullname>LORRAINE P. CULPEPPER</fullname>
+				<street1>4112 BURRLAND ROAD </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703</city_state_zip>
+				<sys_id>40319</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Angels all over town </title>
+				<author>Rice, Luanne.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>RICE </callno>
+				<location>FICTION</location>
+				<barcode>33230006326403</barcode>
+				<circ_id>285272</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>14.00</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>A place called freedom</title>
+				<author>Follett, Ken.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>FOLLETT 2</callno>
+				<location>FICTION</location>
+				<barcode>33230004043620</barcode>
+				<circ_id>285277</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>25.00</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Crazy in love</title>
+				<author>Rice, Luanne.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>RICE 2</callno>
+				<location>FICTION</location>
+				<barcode>33230006797991</barcode>
+				<circ_id>285269</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>7.50</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Sway : a novel</title>
+				<author>Turner, Amber McRee.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>TURNER, AMBER </callno>
+				<location>J FICTION</location>
+				<barcode>33230007318961</barcode>
+				<circ_id>285276</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>16.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>The little victim</title>
+				<author>Raichev, R. T.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>RAICHEV, R. T. </callno>
+				<location>FICTION</location>
+				<barcode>33230007162138</barcode>
+				<circ_id>285270</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>25.00</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>The drop : a novel</title>
+				<author>Connelly, Michael</author>
+				<duedate>12/8/2012</duedate>
+				<callno>CONNELLY, MICHAEL </callno>
+				<location>FICTION</location>
+				<barcode>33230007262607</barcode>
+				<circ_id>285271</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>27.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='30day'>
+			<patron>
+				<id type="barcode">23230001056288</id>
+				<fullname>KENNETH E. HANSON</fullname>
+				<street1>3905 FLAGSHIP WAY </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703</city_state_zip>
+				<sys_id>54742</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Circus of the damned </title>
+				<author>Hamilton, Laurell K.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>HAMILTON 1</callno>
+				<location>FICTION</location>
+				<barcode>33230006052264</barcode>
+				<circ_id>285051</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>22.95</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='30day'>
+			<patron>
+				<id type="barcode">23230000441598</id>
+				<fullname>CYNTHIA JEAN FLENNER</fullname>
+				<street1>4614 SOUTH STREET </street1>
+				<city_state_zip>PORTSMOUTH, VA 23707</city_state_zip>
+				<sys_id>78186</sys_id>
+			</patron>
+			<library>
+				<libname>Main Library</libname>
+				<libphone></libphone>
+				<libstreet1>601 Court St </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23704</libcity_state_zip>
+			</library>
+			<item>
+				<title>Living with chickens : everything you need to know to raise your own backyard flock</title>
+				<author>Rossier, Jay.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>636 Ro 1</callno>
+				<location>NONFICTION</location>
+				<barcode>33230005511047</barcode>
+				<circ_id>285487</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>24.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Barnyard in your backyard : a beginner's guide to raising chickens, ducks, geese, rabbits, goats, sheep and cattle</title>
+				<author>Damerow, Gail.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>636 BARNYARD 1</callno>
+				<location>NONFICTION</location>
+				<barcode>33230005684422</barcode>
+				<circ_id>285489</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>24.95</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='30day'>
+			<patron>
+				<id type="barcode">23230002075691</id>
+				<fullname>NICOLAS M. DELCOUR</fullname>
+				<street1>420 ROCKBRIDGE RD </street1>
+				<city_state_zip>PORTSMOUTH, VA 23707</city_state_zip>
+				<sys_id>87069</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>The lost hero</title>
+				<author>Riordan, Rick.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>RIORDAN, RICK </callno>
+				<location>J FICTION</location>
+				<barcode>33230007293487</barcode>
+				<circ_id>285359</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>18.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='30day'>
+			<patron>
+				<id type="barcode">23230000823118</id>
+				<fullname>TONY L. CROSS</fullname>
+				<street1>312 KILLIAN AVENUE </street1>
+				<city_state_zip>PORTSMOUTH, VA 23704</city_state_zip>
+				<sys_id>89548</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Five little pumpkins / Iris Van Rynbach </title>
+				<author>Van Rynbach, Iris.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>VAN RYNBACH 1</callno>
+				<location>EASY</location>
+				<barcode>33230004018697</barcode>
+				<circ_id>286236</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>7.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>The adventures of Captain Underpants : an epic novel</title>
+				<author>Pilkey, Dav</author>
+				<duedate>12/8/2012</duedate>
+				<callno>PILKEY, DAV </callno>
+				<location>J FICTION</location>
+				<barcode>33230007311792</barcode>
+				<circ_id>286227</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>5.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Ms. Beard is weird!</title>
+				<author>Gutman, Dan.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>GUTMAN, DAN </callno>
+				<location>J FICTION</location>
+				<barcode>33230007319712</barcode>
+				<circ_id>286230</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>3.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Frantastic voyage</title>
+				<author>Benton, Jim.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>BENTON, JIM </callno>
+				<location>J FICTION</location>
+				<barcode>33230007245784</barcode>
+				<circ_id>286240</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>15.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Power Rangers samurai Volume 1 The team unites</title>
+				<author>Saban Entertainment (Firm)</author>
+				<duedate>12/8/2012</duedate>
+				<callno>POWER </callno>
+				<location>J DVD</location>
+				<barcode>33230009036447</barcode>
+				<circ_id>286225</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>14.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Robots don't catch chicken pox</title>
+				<author>Dadey, Debbie.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>DADEY 1</callno>
+				<location>J FICTION</location>
+				<barcode>33230006757193</barcode>
+				<circ_id>286226</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>3.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Oggie Cooder</title>
+				<author>Weeks, Sarah.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>WEEKS, SARAH </callno>
+				<location>J FICTION</location>
+				<barcode>33230007068301</barcode>
+				<circ_id>286231</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>16.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>I must have Bobo!</title>
+				<author>Rosenthal, Eileen.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>ROSENTHAL </callno>
+				<location>EASY</location>
+				<barcode>33230007253358</barcode>
+				<circ_id>286237</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>14.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Adios, Oscar! : a butterfly tale</title>
+				<author>Elwell, Peter.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>ELWELL, PETER </callno>
+				<location>J CD READ ALONG</location>
+				<barcode>33230006260172</barcode>
+				<circ_id>286239</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>37.75</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>One of those days</title>
+				<author>Rosenthal, Amy Krouse.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>ROSENTHAL 1</callno>
+				<location>EASY</location>
+				<barcode>33230006763035</barcode>
+				<circ_id>286235</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>13.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='30day'>
+			<patron>
+				<id type="barcode">23230000910915</id>
+				<fullname>JAZLYNN  LEWIS</fullname>
+				<street1>6517 BICKFORD LN. APT. 201 </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703</city_state_zip>
+				<sys_id>98108</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>The sisters who would be queen : Mary, Katherine, and Lady Jane Grey : a Tudor tragedy</title>
+				<author>De Lisle, Leanda.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>942.053 DE LISLE </callno>
+				<location>NONFICTION</location>
+				<barcode>33230007128634</barcode>
+				<circ_id>285960</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>30.00</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>The first queen of England : the myth of "Bloody Mary"</title>
+				<author>Porter, Linda</author>
+				<duedate>12/8/2012</duedate>
+				<callno>MARY I, QUEEN OF ENGLAND </callno>
+				<location>BIOGRAPHY</location>
+				<barcode>33230006862738</barcode>
+				<circ_id>285958</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>27.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>The Tudors : the complete story of England's most notorious dynasty</title>
+				<author>Meyer, G. J.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>942.05 MEYER </callno>
+				<location>NONFICTION</location>
+				<barcode>33230007151677</barcode>
+				<circ_id>285959</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>30.00</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='30day'>
+			<patron>
+				<id type="barcode">23230002029086</id>
+				<fullname>SYDNEY G. GAYLE</fullname>
+				<street1>8 HARRIS RD. </street1>
+				<city_state_zip>PORTSMOUTH, VA 23702</city_state_zip>
+				<sys_id>101073</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Cake cake cake pie</title>
+				<author>Phillips, Sally Kahler.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>PHILLIPS 1</callno>
+				<location>READY TO READ</location>
+				<barcode>33230006204618</barcode>
+				<circ_id>285294</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>3.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Babymouse : beach babe / by Jennifer Holm &amp; Matthew Holm</title>
+				<author>Holm, Jennifer L.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>HOLM, JENNIFER 1</callno>
+				<location>J GRAPHIC NOVEL FICTION</location>
+				<barcode>33230007086956</barcode>
+				<circ_id>285296</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>12.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Fraction fun </title>
+				<author>Adler, David A.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>Ad 1</callno>
+				<location>EASY</location>
+				<barcode>33230004888180</barcode>
+				<circ_id>285295</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>6.95</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='30day'>
+			<patron>
+				<id type="barcode">23230001033782</id>
+				<fullname>STEPHION P. BENNETT</fullname>
+				<street1>9 BRIERDALE PLACE </street1>
+				<city_state_zip>PORTSMOUTH, VA 23702</city_state_zip>
+				<sys_id>107595</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Fitting in</title>
+				<author>Jones, Jada.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>JONES, JADA 1</callno>
+				<location>YA FICTION</location>
+				<barcode>33230007298353</barcode>
+				<circ_id>285659</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>8.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Holding back</title>
+				<author>Jones, Jada.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>JONES, JADA 1</callno>
+				<location>YA FICTION</location>
+				<barcode>33230007297090</barcode>
+				<circ_id>285658</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>8.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Bein' good</title>
+				<author>Jones, Jada.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>JONES, JADA 1</callno>
+				<location>YA FICTION</location>
+				<barcode>33230007293719</barcode>
+				<circ_id>285661</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>8.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Diva </title>
+				<author>Monroe, Ayshia.</author>
+				<duedate>12/8/2012</duedate>
+				<callno>MONROE, AYSHIA 1</callno>
+				<location>YA FICTION</location>
+				<barcode>33230007320637</barcode>
+				<circ_id>285662</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>9.95</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='30day'>
+			<patron>
+				<id type="barcode">23230002014229</id>
+				<fullname>COREY L. ALSTON</fullname>
+				<street1>3840 AUGUSTINE CIR. </street1>
+				<city_state_zip>PORTSMOUTH, VA 23703</city_state_zip>
+				<sys_id>111217</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Max &amp; Ruby Super Max's cape</title>
+				<author>Treehouse TV</author>
+				<duedate>12/8/2012</duedate>
+				<callno>MAX </callno>
+				<location>J DVD</location>
+				<barcode>33230009023353</barcode>
+				<circ_id>286068</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>10.39</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+		<notice type='overdue' count='30day'>
+			<patron>
+				<id type="barcode">23230002087480</id>
+				<fullname>MARGARITA L. JOHNSON</fullname>
+				<street1>1055 ANN STREET, APT. B </street1>
+				<city_state_zip>PORTSMOUTH, VA 23704</city_state_zip>
+				<sys_id>115447</sys_id>
+			</patron>
+			<library>
+				<libname>Churchland Branch</libname>
+				<libphone></libphone>
+				<libstreet1>4934 High Street West </libstreet1>
+				<libcity_state_zip>Portsmouth, VA 23703</libcity_state_zip>
+			</library>
+			<item>
+				<title>Run the game </title>
+				<author>Myers, Jason</author>
+				<duedate>12/8/2012</duedate>
+				<callno>MYERS, JASON </callno>
+				<location>YA FICTION</location>
+				<barcode>33230007298403</barcode>
+				<circ_id>285980</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>9.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Carmen</title>
+				<author>Fr&#xE9;chette, Carole</author>
+				<duedate>12/8/2012</duedate>
+				<callno>FRECHETTE </callno>
+				<location>YA FICTION</location>
+				<barcode>33230006781920</barcode>
+				<circ_id>285978</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>8.95</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Locked in time</title>
+				<author>Duncan, Lois</author>
+				<duedate>12/8/2012</duedate>
+				<callno>DUNCAN 1</callno>
+				<location>YA FICTION</location>
+				<barcode>33230006103505</barcode>
+				<circ_id>285979</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>4.99</item_price>
+				<fine></fine>
+			</item>
+			<item>
+				<title>Hate list</title>
+				<author>Brown, Jennifer</author>
+				<duedate>12/8/2012</duedate>
+				<callno>BROWN, JENNIFER </callno>
+				<location>YA FICTION</location>
+				<barcode>33230007216595</barcode>
+				<circ_id>285987</circ_id>
+				<check_out>11/24/2012</check_out>
+				<item_price>8.99</item_price>
+				<fine></fine>
+			</item>
+		</notice>
+	</agency>
+</file>

@@ -1,0 +1,29 @@
+/* tags */ 
+
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+/* classes */
+
+.footer_page_num
+{
+    display: none;
+}
+
+.header_page_num
+{
+    display: none;
+}
+
+.notice
+{
+    width: 100%;
+}
+
+.page_break
+{
+    page-break-after: always;
+}
