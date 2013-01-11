@@ -418,8 +418,8 @@ sub fetch_circ_data {
 	$bc = entityize($bc);
 
         my $xact = $circ->[10];
-        my $fine = simplereq('open-ils.cstore', 'open-ils.cstore.direct.money.billable_transaction_summary.retrieve', $xact);
-        my $f = $fine->[8];
+	my $fine = simplereq('open-ils.cstore', 'open-ils.cstore.direct.money.billable_transaction_summary.retrieve', $xact);
+	my $f = $fine->[8];
 
         my $co = DateTime::Format::ISO8601->new->parse_datetime(
                 clense_ISO8601($circ->xact_start));

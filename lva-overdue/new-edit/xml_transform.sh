@@ -1,4 +1,5 @@
 #!/bin/bash
+
 #====================================
 # This script runs xsltproc to get an xml file that is specifically
 # the print version of the xml data.
@@ -19,7 +20,7 @@ xsltproc ../overdues.xsl $myfile > "${slim}_print.xml"
 
 prince_pack="${slim}_print.xml"
 
-echo ${prince_pack}
+echo "${prince_pack} is the package for Prince"
 
 prince "${prince_pack}"
 
