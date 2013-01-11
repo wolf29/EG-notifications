@@ -67,9 +67,13 @@ my %ORG_CACHE;
 
 print <<XML;
 <?xml version='1.0' encoding='UTF-8'?>
+<<<<<<< HEAD
 <?xml-stylesheet type="text/xsl" href="http://lyrasistechnology.org/static/overdues.xsl"?>
+=======
+<?xml-stylesheet type="text/xsl" href="../overdues.xsl"?>
+>>>>>>> e93dcf899d4587f9133dd55dbfd5114a9817deda
 <file type="notice" date="$mon/$day/$year" time="$hour:$min:$sec">
-	<agency name="MLC">
+	<agency name="PPL">
 XML
 
 print_notices($_) for @goback;
@@ -170,7 +174,7 @@ sub print_notice {
 
 	my $s1 = scalar(@$circs);
 	
-	# we don't charge for lost or claimsreturned
+	# we don't charge for lost or claims returned
 	$circs = [ 
 		grep {
 			!$_->stop_fines or (
