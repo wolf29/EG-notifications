@@ -68,7 +68,7 @@ my %ORG_CACHE;
 print <<XML;
 <?xml version='1.0' encoding='UTF-8'?>
 <<<<<<< HEAD
-<?xml-stylesheet type="text/xsl" href="http://lyrasistechnology.org/static/overdues.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../overdues.xsl"?>
 =======
 <?xml-stylesheet type="text/xsl" href="../overdues.xsl"?>
 >>>>>>> e93dcf899d4587f9133dd55dbfd5114a9817deda
