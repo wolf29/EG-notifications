@@ -13,7 +13,7 @@ RECIPIENT=$2;
 DATE=$(date +%Y-%m-%d);
 DAY=$(date +%u);
 BSCONFIG="/openils/conf/opensrf_core.xml"
-ODDIR="/openils/var/data/overdue/ppl/";
+ODDIR="/openils/var/data/overdue/ppl";
 
 export EG_OVERDUE_EMAIL_TEMPLATE="overdue_notice_email";
 export EG_OVERDUE_SMTP_HOST="";
@@ -29,5 +29,5 @@ ARGS="0"
 if [ $DAY == 1 ]; then ARGS="1 0"; fi; # If today is monday, run for sun/mon
 
 
-/openils/bin/ppl_od.pl $BSCONFIG $ARGS > "$ODDIR/ppl_overdue_""$DATE"".xml"
+./ppl_od.pl $BSCONFIG $ARGS > "$ODDIR/ppl.overdue.$DATE.xml"
 
