@@ -12,7 +12,7 @@
 
 
 use strict; use warnings;
-require 'oils_header.pl';
+require '/openils/bin/oils_header.pl';
 use vars qw/$logger $apputils/;
 use Data::Dumper;
 use OpenILS::Const qw/:const/;
@@ -67,11 +67,7 @@ my %ORG_CACHE;
 
 print <<XML;
 <?xml version='1.0' encoding='UTF-8'?>
-<<<<<<< HEAD
 <?xml-stylesheet type="text/xsl" href="../overdues.xsl"?>
-=======
-<?xml-stylesheet type="text/xsl" href="../overdues.xsl"?>
->>>>>>> e93dcf899d4587f9133dd55dbfd5114a9817deda
 <file type="notice" date="$mon/$day/$year" time="$hour:$min:$sec">
 	<agency name="PPL">
 XML
@@ -422,8 +418,8 @@ sub fetch_circ_data {
 	$bc = entityize($bc);
 
         my $xact = $circ->[10];
-	my $fine = simplereq('open-ils.cstore', 'open-ils.cstore.direct.money.billable_transaction_summary.retrieve', $xact);
-	my $f = $fine->[8];
+        my $fine = simplereq('open-ils.cstore', 'open-ils.cstore.direct.money.billable_transaction_summary.retrieve', $xact);
+        my $f = $fine->[8];
 
         my $co = DateTime::Format::ISO8601->new->parse_datetime(
                 clense_ISO8601($circ->xact_start));
