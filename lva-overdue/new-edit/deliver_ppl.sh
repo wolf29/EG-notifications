@@ -1,6 +1,5 @@
 #!/bin/bash 
-
-#  xml_transform.sh  
+#  deliver_ppl.sh 
 #  
 #  Copyright 2013 Wolf Halton  <wolf@sourcefreedom.com>
 #  
@@ -20,29 +19,14 @@
 #  MA 02110-1301, USA.
 #  
 #  
-#====================================
-# This script runs xsltproc to get an xml file that is specifically
-# the print version of the xml data.
-# and runs prince to make that xml file into a PDF
 
-cd /openils/var/data/overdue/ppl
+ddate="`date +'%F'`"
+echo "${ddate} is today's date"
 
-
-myfile="`find -maxdepth 1 -name "*.xml" -mmin -120`"
-
-echo "$myfile is the file we are taking"
-
-slim="`echo $myfile | cut -d '.' -f 2 | cut -d '/' -f 2`"
-
-echo "$slim is the stub"
-
-xsltproc ../overdues.xsl $myfile > "${slim}_print.xml"
-
-prince_pack="${slim}_print.xml"
-
-echo "${prince_pack} is the package for Prince"
-
-prince "${prince_pack}"
+mmon=$date[4] + 1;
+yyear=$date[5] + 1900;
 
 
+file="/openils/var/data/overdue/ppl/ppl_overdue_${ddate}_print.pdf";
 
+/usr/bin/mutt -s 'Overdue Notices' -a $file -- wolf.halton@gmail.com < /home/opensrf/overdue/file_delivery.txt
