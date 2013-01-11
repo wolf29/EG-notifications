@@ -29,4 +29,4 @@ yyear=$date[5] + 1900;
 
 file="/openils/var/data/overdue/ppl/ppl_overdue_${ddate}_print.pdf";
 
-/usr/bin/mutt -s 'Overdue Notices' -a $file -- wolf.halton@gmail.com < /home/opensrf/overdue/file_delivery.txt
+/usr/bin/mutt -s 'Overdue Notices' -a $file -- wolf.halton@gmail.com < /home/opensrf/EG-notifications/file_delivery.txt
