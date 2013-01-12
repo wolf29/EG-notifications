@@ -29,5 +29,5 @@ ARGS="0"
 if [ $DAY == 1 ]; then ARGS="1 0"; fi; # If today is monday, run for sun/mon
 
 
-./ppl_od.pl $BSCONFIG $ARGS > "$ODDIR/ppl_overdue_$DATE.xml"
+/openils/bin/ppl_od.pl $BSCONFIG $ARGS > "$ODDIR/ppl_overdue_$DATE.xml"
 
