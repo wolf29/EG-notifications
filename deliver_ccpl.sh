@@ -1,6 +1,5 @@
-#!/bin/bash -x
-
-#  xml_transform.sh  
+#!/bin/bash -x 
+#  deliver_ccpl.sh 
 #  
 #  Copyright 2013 Wolf Halton  <wolf@sourcefreedom.com>
 #  
@@ -20,29 +19,11 @@
 #  MA 02110-1301, USA.
 #  
 #  
-#====================================
-# This script runs xsltproc to get an xml file that is specifically
-# the print version of the xml data.
-# and runs prince to make that xml file into a PDF
 
-cd /openils/var/data/overdue/ppl/
+ddate="`date +'%F'`"
+echo "${ddate} is today's date"
 
+file="/openils/var/data/overdue/ccpl/ccpl_overdue_${ddate}_print.pdf"
+echo "$file is the file being sent"
 
-myfile="`find -maxdepth 1 -name "*.xml" -mmin -120`"
-
-echo "$myfile is the file we are taking"
-
-slim="`echo $myfile | cut -d '.' -f 2 | cut -d '/' -f 2`"
-
-echo "$slim is the stub"
-
-xsltproc /openils/var/data/overdue/overdues.xsl $myfile > "${slim}_print.xml"
-
-prince_pack="${slim}_print.xml"
-
-echo "${prince_pack} is the package for Prince"
-
-prince "${prince_pack}"
-
-
-
+/usr/bin/mutt -s 'Overdue Notices' -a $file -- cumbpublib@yahoo.com  < /home/opensrf/EG-notifications/file_delivery.txt

@@ -1,6 +1,6 @@
 #!/bin/bash -x
 
-#  xml_transform.sh  
+#  mcat_xml_transform.sh  
 #  
 #  Copyright 2013 Wolf Halton  <wolf@sourcefreedom.com>
 #  
@@ -25,7 +25,7 @@
 # the print version of the xml data.
 # and runs prince to make that xml file into a PDF
 
-cd /openils/var/data/overdue/ppl/
+cd /openils/var/data/overdue/mcat/
 
 
 myfile="`find -maxdepth 1 -name "*.xml" -mmin -120`"

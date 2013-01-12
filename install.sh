@@ -52,15 +52,27 @@
 ##       overdues.xsl  
 ##       overdues-print.css
 
+mkdir -p /openils/var/data/overdue/ppl
+mkdir -p /openils/var/data/overdue/ccpl
+mkdir -p /openils/var/data/overdue/mcat
+
 cp ./deliver_ppl.pl  /openils/bin/deliver_ppl.pl
 cp ./oils_header.pl /openils/bin/oils_header.pl
 cp ./ppl_od.sh /openils/bin/ppl_od.sh
 cp ./deliver_ppl.sh /openils/bin/deliver_ppl.sh
-cp./ppl_od.pl /openils/bin/ppl_od.pl
+cp ./ppl_od.pl /openils/bin/ppl_od.pl
 cp ./xml_transform.sh /openils/bin/xml_transform.sh
 
 chmod +x /openils/bin/*.sh
 chmod +x /openils/bin/*.pl
 
 cp ./*.xsl /openils/var/data/overdue/
-cp ./*.css /openils/var/data/overdue/*/
+cp ./*.css /openils/var/data/overdue/
+cp ./*.xsl /openils/var/data/overdue/ppl/
+cp ./*.css /openils/var/data/overdue/ppl/
+cp ./*.xsl /openils/var/data/overdue/ccpl/
+cp ./*.css /openils/var/data/overdue/ccpl/
+cp ./*.xsl /openils/var/data/overdue/mcat/
+cp ./*.css /openils/var/data/overdue/mcat/
+
+

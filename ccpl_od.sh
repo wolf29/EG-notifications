@@ -13,11 +13,11 @@ RECIPIENT=$2;
 DATE=$(date +%Y-%m-%d);
 DAY=$(date +%u);
 BSCONFIG="/openils/conf/opensrf_core.xml"
-ODDIR="/openils/var/data/overdue/ppl";
+ODDIR="/openils/var/data/overdue/ccpl";
 
 export EG_OVERDUE_EMAIL_TEMPLATE="overdue_notice_email";
 export EG_OVERDUE_SMTP_HOST="";
-export EG_OVERDUE_EMAIL_SENDER="libnotice@portsmouthva.gov";
+export EG_OVERDUE_EMAIL_SENDER="cumbpublib@yahoo.com";
 
 [ $(whoami) != "opensrf" ] && echo "Must be run as opensrf" && exit 1;
 source ~/.bashrc;
@@ -29,5 +29,5 @@ ARGS="0"
 if [ $DAY == 1 ]; then ARGS="1 0"; fi; # If today is monday, run for sun/mon
 
 
-/openils/bin/ppl_od.pl $BSCONFIG $ARGS > "$ODDIR/ppl_overdue_$DATE.xml"
+/openils/bin/ccpl_od.pl $BSCONFIG $ARGS > "$ODDIR/ccpl_overdue_$DATE.xml"
 
