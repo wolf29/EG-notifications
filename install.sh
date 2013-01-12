@@ -53,7 +53,7 @@
 ##       overdues-print.css
 
 mkdir -p /openils/var/data/overdue/ppl
-mkdir -p /openils/var/data/overdue/ppl
+mkdir -p /openils/var/data/overdue/ccpl
 mkdir -p /openils/var/data/overdue/mcat
 
 cp ./deliver_ppl.pl  /openils/bin/deliver_ppl.pl
