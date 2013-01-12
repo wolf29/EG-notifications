@@ -1,4 +1,4 @@
-#!/bin/bash 
+#!/bin/bash -x 
 #  deliver_ppl.sh 
 #  
 #  Copyright 2013 Wolf Halton  <wolf@sourcefreedom.com>
@@ -23,10 +23,7 @@
 ddate="`date +'%F'`"
 echo "${ddate} is today's date"
 
-mmon=$date[4] + 1;
-yyear=$date[5] + 1900;
+file="/openils/var/data/overdue/ppl/ppl_overdue_${ddate}_print.pdf"
+echo "$file is the file being sent"
 
-
-file="/openils/var/data/overdue/ppl/ppl_overdue_${ddate}_print.pdf";
-
-/usr/bin/mutt -s 'Overdue Notices' -a $file -- wolf.halton@gmail.com < /home/opensrf/EG-notifications/file_delivery.txt
+/usr/bin/mutt -s 'Overdue Notices' -a $file -- churchla@portsmouthva.gov  < /home/opensrf/EG-notifications/file_delivery.txt
