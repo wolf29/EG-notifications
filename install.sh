@@ -61,7 +61,18 @@ cp ./oils_header.pl /openils/bin/oils_header.pl
 cp ./ppl_od.sh /openils/bin/ppl_od.sh
 cp ./deliver_ppl.sh /openils/bin/deliver_ppl.sh
 cp ./ppl_od.pl /openils/bin/ppl_od.pl
-cp ./xml_transform.sh /openils/bin/xml_transform.sh
+cp ./ppl_xml_transform.sh /openils/bin/xml_transform.sh
+cp ./deliver_ccpl.pl  /openils/bin/deliver_ccpl.pl
+cp ./ccpl_od.sh /openils/bin/ccpl_od.sh
+cp ./deliver_ccpl.sh /openils/bin/deliver_ccpl.sh
+cp ./ccpl_od.pl /openils/bin/ccpl_od.pl
+cp ./ccpl_xml_transform.sh /openils/bin/ccpl_xml_transform.sh
+cp ./deliver_mcat.pl  /openils/bin/deliver_mcat.pl
+cp ./mcat_od.sh /openils/bin/mcat_od.sh
+cp ./deliver_mcat.sh /openils/bin/deliver_mcat.sh
+cp ./mcat_od.pl /openils/bin/mcat_od.pl
+cp ./mcat_xml_transform.sh /openils/bin/mcat_xml_transform.sh
+
 
 chmod +x /openils/bin/*.sh
 chmod +x /openils/bin/*.pl
