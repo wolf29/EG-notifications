@@ -8,8 +8,9 @@ A work-around for an Evergreen action-triggers issue.
 The action-triggers for Overdue notifications are great ideas and
 library systems love the granular nature of their theoretical behaviour.
 The problem is that they don't always work as advertized.
-I got these scripts from the Michigan Evergreen project and have 
-adjusted them to make deployment easier.  
+I got these scripts from the Michigan Evergreen project which got them
+from an early version of Evergreen-ILS. I have adjusted them to make 
+deployment easier.  
 
 The scripts produce xml files that create both email-to-patron
 notifications and email-to-library-system printable mailable 
