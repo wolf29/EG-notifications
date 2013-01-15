@@ -4,7 +4,7 @@
 # If today is Monday, it runs the script for Sat/Sun/Mon, 
 # otherwise it runs once per day.
 # ---------------------------------------------------------------
-
+# Copyright 2008 The Evergreen-ILS Project 
 
 
 

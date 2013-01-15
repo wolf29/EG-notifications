@@ -2,6 +2,7 @@
 #  deliver_ppl.sh 
 #  
 #  Copyright 2013 Wolf Halton  <wolf@sourcefreedom.com>
+#  Copyright 2008 The Evergreen-ILS Project 
 #  
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by

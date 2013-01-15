@@ -3,6 +3,8 @@
 #----------------------------------------------------------------
 # Generic header for tesing OpenSRF methods
 #----------------------------------------------------------------
+# Copyright 2008 The Evergreen-ILS Project 
+
 
 use strict;
 use warnings;
