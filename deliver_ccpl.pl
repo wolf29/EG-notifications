@@ -1,5 +1,5 @@
 #!/usr/bin/perl 
-
+# Copyright 2008 The Evergreen-ILS Project 
 
 my @date = CORE::localtime;
 my $d    = $date[3];

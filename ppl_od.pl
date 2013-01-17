@@ -8,7 +8,7 @@
 # ./eg_gen_overdue.pl <bootstap> 2 1 0  
 # ./eg_gen_overdue.pl <bootstap> 3 2 1 0  etc...
 # ---------------------------------------------------------------
-
+# Copyright 2008 The Evergreen-ILS Project
 
 
 use strict; use warnings;
