@@ -105,7 +105,7 @@ sub print_notices {
 			{
 				checkin_time => undef,
 				due_date => { between => [ $start, $end ] },
-				circ_lib => { between => [ 4, 6 ] } and { between ==> [ 101, 103, ] },
+				circ_lib => { between => [ 4, 6 ] } and { between ==> [ 101, 103, ] }
 			},
 			{ order_by => { circ => 'usr, circ_lib' } }
 		];
