@@ -315,11 +315,11 @@
                                             <td><xsl:value-of select="barcode"/></td> 
                                             <td><xsl:value-of select="location"/></td>
                                             <td><xsl:value-of select="duedate"/></td>
-                                            <td class="right">$ <xsl:value-of select="item_price"/></td> 
-                                            <td class="right">$ <xsl:value-of select="fine"/></td>  
+                                            <td>$ <xsl:value-of select="item_price"/></td> 
+                                            <td>$ <xsl:value-of select="fine"/></td>  
                                         </tr>
                                         <xsl:choose> 
-                                            <xsl:when test="$use_barcodes = 'true'">
+                                            <xsl:when test="$use_barcodes = 'false'">
                                                 <tr class="zebra"> 
                                                     <td></td> 
                                                     <td></td> 
