@@ -33,7 +33,7 @@
     <xsl:variable name="lib_logo">true</xsl:variable>
     
     <!-- change false to true to display your library's phone, fax, and web address as part of the return address -->
-    <xsl:variable name="use_lib_extras">false</xsl:variable>
+    <xsl:variable name="use_lib_extras">true</xsl:variable>
     
     <xsl:variable name="lib_phone">123-456-7890</xsl:variable>
     <xsl:variable name="lib_fax">123-456-7891</xsl:variable>
@@ -88,36 +88,6 @@
                                 </xsl:when> 
                                 <xsl:otherwise> 
                                 <div class="logo"> 
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<!-- <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   id="svg3052"
-   version="1.1"
-   width="50"
-   height="50">
-  <metadata
-     id="metadata3058">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     style="fill:#000000"
-     d="m 5.8530268,48.733624 c -0.311989,-0.813033 -0.410366,-7.602383 -0.218615,-15.087447 0.345498,-13.486606 0.373915,-13.630939 3.154403,-16.021759 1.5431702,-1.326905 3.4883312,-2.412554 4.3225802,-2.412554 1.215137,0 1.104601,-0.524047 -0.555764,-2.634859 C 9.6551838,8.8896852 9.8767478,4.8339429 13.11791,2.2844445 16.021772,2.6623729e-4 18.614385,-0.32339916 21.525874,1.2347827 26.710801,4.0096712 26.386806,10.871684 20.932163,13.809202 l -3.449112,1.85747 0,12.165607 c 0,10.170952 0.259348,12.265128 1.581787,12.772596 2.4176,0.92772 12.229052,0.722075 12.841667,-0.269157 0.297819,-0.481881 -1.250623,-2.118081 -3.440983,-3.636001 -2.190359,-1.51792 -3.982471,-3.081545 -3.982471,-3.474723 0,-0.393177 2.269266,-3.712499 5.042813,-7.37627 4.226553,-5.583149 5.334817,-6.505126 6.846804,-5.695935 1.233635,0.660221 2.192188,0.58506 3.031826,-0.237729 0.961339,-0.942048 1.758877,-0.55206 3.674523,1.796804 4.054755,4.971726 4.046971,6.920116 -0.05142,12.870796 -2.023676,2.938287 -3.783208,5.969385 -3.910071,6.735773 -0.48326,2.919404 -2.77794,5.893431 -4.547214,5.893431 -1.013304,0 -2.402572,0.675 -3.087261,1.5 -1.809586,2.180418 -24.7941812,2.199931 -25.6300242,0.02176 z"
-     id="path3064" />
-</svg> -->
-
                                 </div> <!-- end logo div -->
                                 </xsl:otherwise> 
                             </xsl:choose>                      
