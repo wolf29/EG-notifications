@@ -236,13 +236,15 @@
                             </div> <!-- end greeting div -->
                         </div> <!-- end body div -->
                         <table class="list"> 
-                            <thead> 
-                                <th>Title / Call #</th> 
-                                <th>Item ID (Barcode)</th> 
-                                <th>Check Out Date</th> 
-                                <th>Due Date</th> 
-                                <th>Days Overdue</th> 
-                                <th>Item Price</th> 
+                            <xsl:choose> 
+                                <xsl:when test="@count = $notice3_count"> 
+                                    <thead> 
+                                        <th>Title / Call #</th> 
+                                        <th>Item ID (Barcode)</th> 
+                                        <th>Check Out Date</th> 
+                                        <th>Due Date</th> 
+                                        <th>Days Overdue</th> 
+                                        <th>Item Price</th> 
                                         <th>Fines to Date</th> 
                                     </thead>
                                     <tbody> 
@@ -320,7 +322,46 @@
                                         </td> 
                                     </tr>
                                     </tbody>
-                                
+                                </xsl:when> 
+                                <xsl:otherwise> 
+                                    <thead> 
+                                        <th>Title</th> 
+                                        <th>Author</th> 
+                                        <th>Call Number</th> 
+                                        <th>Item ID</th> 
+                                        <th>Location</th>
+                                        <th>Due Date</th> 
+                                    </thead>
+                                    <tbody> 
+                                    <xsl:for-each select="item"> 
+                                        <xsl:sort select="title"/> 
+                                        <tr class="zebra"> 
+                                            <td><xsl:value-of select="title"/></td> 
+                                            <td><xsl:value-of select="author"/></td> 
+                                            <td><xsl:value-of select="callno"/></td> 
+                                            <td><xsl:value-of select="barcode"/></td> 
+                                            <td><xsl:value-of select="location"/></td>
+                                            <td><xsl:value-of select="duedate"/></td> 
+                                        </tr>
+                                        <xsl:choose> 
+                                            <xsl:when test="$use_barcodes = 'true'">
+                                                <tr class="zebra"> 
+                                                    <td></td> 
+                                                    <td></td> 
+                                                    <td></td> 
+                                                    <td class="barcode">*<xsl:value-of select="barcode"/>*</td> 
+                                                    <td></td> 
+                                                    <td></td>
+                                                </tr>
+                                            </xsl:when>
+                                            <xsl:otherwise>
+                                                <!-- do nothing -->
+                                            </xsl:otherwise>
+                                        </xsl:choose>
+                                    </xsl:for-each>
+                                    </tbody> 
+                                </xsl:otherwise> 
+                            </xsl:choose>
                         </table>
                         <xsl:choose> 
                             <xsl:when test="@count = $notice3_count">
