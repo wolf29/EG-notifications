@@ -332,11 +332,11 @@
                                             <xsl:otherwise>  -->
                                                 <!-- do nothing -->
                                             <!-- </xsl:otherwise> -->
-                                        <!-- </xsl:choose> -->
+                                        <!-- </xsl:choose> 
                                     </xsl:for-each>
                                     </tbody> 
                                 </xsl:otherwise> 
-                            </xsl:choose>
+                            </xsl:choose> -->
                         </table>
                         <xsl:choose> 
                             <xsl:when test="@count = $notice3_count">
