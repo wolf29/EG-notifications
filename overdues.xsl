@@ -319,6 +319,7 @@
                                             </xsl:choose>
                                         </td> 
                                     </tr>
+                                    <tr><td>&nbsp;</td></tr>
                                     </tbody>
                                 
                         </table>

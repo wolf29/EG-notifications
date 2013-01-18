@@ -17,7 +17,6 @@ th
 {
     text-decoration: underline;
     font-size: 9pt;
-    border: 1px solid black;
     overflow: hidden;
     width: 100px;
 }
@@ -26,7 +25,6 @@ td
     font-size: 9pt;
     padding-left: 2pt;
     padding-right: 2pt;
-    border: 1px solid black;
     overflow: hidden;
     width: 100px;
 }
