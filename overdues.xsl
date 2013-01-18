@@ -207,8 +207,8 @@
                             </div> <!-- end greeting div -->
                         </div> <!-- end body div -->
                         <table class="list"> 
-                            <xsl:choose> 
-                                <xsl:when test="@count = $notice3_count"> 
+                            <!--<xsl:choose> 
+                                <xsl:when test="@count = $notice3_count"> -->
                                     <thead> 
                                         <th>Title / Call #</th> 
                                         <th>Item ID (Barcode)</th> 
@@ -293,8 +293,8 @@
                                         </td> 
                                     </tr>
                                     </tbody>
-                                </xsl:when> 
-                                <xsl:otherwise> 
+                                <!--</xsl:when> -->
+                                <!--<xsl:otherwise> 
                                     <thead> 
                                         <th>Title</th> 
                                         <th>Author</th> 
@@ -329,10 +329,10 @@
                                                     <td></td>
                                                 </tr>
                                             </xsl:when>
-                                            <xsl:otherwise>
+                                            <xsl:otherwise>  -->
                                                 <!-- do nothing -->
-                                            </xsl:otherwise>
-                                        </xsl:choose>
+                                            <!-- </xsl:otherwise> -->
+                                        <!-- </xsl:choose> -->
                                     </xsl:for-each>
                                     </tbody> 
                                 </xsl:otherwise> 
