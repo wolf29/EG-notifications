@@ -236,13 +236,13 @@
                             </div> <!-- end greeting div -->
                         </div> <!-- end body div -->
                         <table class="list"> 
-                                     <thead> 
-                                        <th>Title / Call #</th> 
-                                        <th>Item ID (Barcode)</th> 
-                                        <th>Check Out Date</th> 
-                                        <th>Due Date</th> 
-                                        <th>Days Overdue</th> 
-                                        <th>Item Price</th> 
+                            <thead> 
+                                <th>Title / Call #</th> 
+                                <th>Item ID (Barcode)</th> 
+                                <th>Check Out Date</th> 
+                                <th>Due Date</th> 
+                                <th>Days Overdue</th> 
+                                <th>Item Price</th> 
                                         <th>Fines to Date</th> 
                                     </thead>
                                     <tbody> 
@@ -319,7 +319,6 @@
                                             </xsl:choose>
                                         </td> 
                                     </tr>
-                                    <tr><td>-------</td></tr>
                                     </tbody>
                                 
                         </table>
