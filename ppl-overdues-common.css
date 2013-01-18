@@ -100,8 +100,8 @@ td
 
 .greeting
 {
-    float: left;
-    width: 35%;
+    float: right;
+    width: 45%;
 }
 
 .greeting p.date
