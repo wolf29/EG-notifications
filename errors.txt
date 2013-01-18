@@ -1,11 +1,3 @@
-opensrf@lva-dev:~/EG-notifications$ ./install.sh 
-opensrf@lva-dev:~/EG-notifications$ mcat_od.sh
-opensrf@lva-dev:~/EG-notifications$ ccpl_od.sh
-Odd number of elements in anonymous hash at /openils/bin/ccpl_od.pl line 95.
-Use of uninitialized value $pr in concatenation (.) or string at /openils/bin/ccpl_od.pl line 441.
-Odd number of elements in anonymous hash at /openils/bin/ccpl_od.pl line 95.
-Use of uninitialized value $pr in concatenation (.) or string at /openils/bin/ccpl_od.pl line 441.
-Odd number of elements in anonymous hash at /openils/bin/ccpl_od.pl line 95.
 opensrf@lva-dev:~/EG-notifications$ ppl_od.sh
 "my" variable $circs masks earlier declaration in same scope at /openils/bin/ppl_od.pl line 126.
 "my" variable $range masks earlier declaration in same scope at /openils/bin/ppl_od.pl line 177.
@@ -35,4 +27,5 @@ syntax error at /openils/bin/ppl_od.pl line 232, near "}"
 syntax error at /openils/bin/ppl_od.pl line 290, near "}"
 Can't use global @_ in "my" at /openils/bin/ppl_od.pl line 294, near "= @_"
 /openils/bin/ppl_od.pl has too many errors.
+
 

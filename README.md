@@ -36,8 +36,8 @@ This is not complete because it is hard to say how the structure
 -- Files that stay in this folder
  file_delivery.txt
  install.sh
- overdue_notice_email overdues-print.css
-
+ overdue_notice_email 
+ 
 -- Files that go into /openils/var/data/overdue/
  overdues-common.css
  overdues.xsl
