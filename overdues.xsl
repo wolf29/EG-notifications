@@ -48,6 +48,7 @@
     <xsl:variable name="message2">Please contact the library immediately about the items listed below.</xsl:variable>
     
     <!-- Edit the variables below to match the days overdue count you are using -->
+    <xsl:variable name="notice0_count">7day</xsl:variable>
     <xsl:variable name="notice1_count">14day</xsl:variable>
     <xsl:variable name="notice2_count">28day</xsl:variable>
     <xsl:variable name="notice3_count">45day</xsl:variable>
