@@ -34,6 +34,13 @@ body
     font-weight: bold;
 }
 
+.greeting
+{
+    float: left;
+    width: 45%;
+    left-margin: 4.6cm;
+}
+
 .footer_page_num
 {
     display: none;
