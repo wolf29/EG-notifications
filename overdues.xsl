@@ -302,6 +302,8 @@
                                         <th>Item ID</th> 
                                         <th>Location</th>
                                         <th>Due Date</th> 
+                                        <th>Item Price</th>
+                                        <th>Fine</th>
                                     </thead>
                                     <tbody> 
                                     <xsl:for-each select="item"> 
@@ -312,7 +314,9 @@
                                             <td><xsl:value-of select="callno"/></td> 
                                             <td><xsl:value-of select="barcode"/></td> 
                                             <td><xsl:value-of select="location"/></td>
-                                            <td><xsl:value-of select="duedate"/></td> 
+                                            <td><xsl:value-of select="duedate"/></td>
+                                            <td class="right">$ <xsl:value-of select="item_price"/></td> 
+                                            <td class="right">$ <xsl:value-of select="fine"/></td>  
                                         </tr>
                                         <xsl:choose> 
                                             <xsl:when test="$use_barcodes = 'true'">
