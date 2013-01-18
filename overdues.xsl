@@ -62,6 +62,8 @@
     <xsl:variable name="processing_fee">$5.00</xsl:variable>
     <!-- leave max_fine blank if you have no processing fee -->
     <xsl:variable name="max_fine">$5.00</xsl:variable>
+    
+    <xsl:variable name="days_overdue"></xsl:variable>
 
     <!-- NO NEED TO EDIT BELOW THIS POINT -->
 
