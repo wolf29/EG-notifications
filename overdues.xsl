@@ -226,7 +226,7 @@
                                             <td><xsl:value-of select="barcode"/></td> 
                                             <td><xsl:value-of select="check_out"/></td> 
                                             <td><span class="due_date"><xsl:value-of select="duedate"/></span></td> 
-                                            <td class="days_overdue"><span class="days_overdue"></span></td> 
+                                            <td class="days_overdue"><span class="days_overdue"><xls:value-of select="days_overdue" /></span></td> 
                                             <td class="right">$ <xsl:value-of select="item_price"/></td> 
                                             <td class="right">$ <xsl:value-of select="fine"/></td> 
                                         </tr> 
@@ -247,6 +247,7 @@
                                         <td colspan="5"></td> 
                                         <td colspan="2"><hr /></td> 
                                     </tr> 
+                                    <tr>--</tr>
                                     <tr> 
                                         <td colspan="5"></td> 
                                         <td class="center">Total Replacement Cost</td> 
@@ -292,8 +293,7 @@
                                             </xsl:choose>
                                         </td> 
                                     </tr>
-                                    <tr>--</tr>
-                                    </tbody>
+                                </tbody>
                                 <!--</xsl:when> -->
                                 <!--<xsl:otherwise> 
                                     <thead> 
