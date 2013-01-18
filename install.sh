@@ -61,7 +61,7 @@ cp -b ./oils_header.pl /openils/bin/oils_header.pl
 cp -b ./ppl_od.sh /openils/bin/ppl_od.sh
 cp -b ./deliver_ppl.sh /openils/bin/deliver_ppl.sh
 cp -b ./ppl_od.pl /openils/bin/ppl_od.pl
-cp -b ./ppl_xml_transform.sh /openils/bin/xml_transform.sh
+cp -b ./ppl_xml_transform.sh /openils/bin/ppl_xml_transform.sh
 cp -b ./deliver_ccpl.pl /openils/bin/deliver_ccpl.pl
 cp -b ./ccpl_od.sh /openils/bin/ccpl_od.sh
 cp -b ./deliver_ccpl.sh /openils/bin/deliver_ccpl.sh
