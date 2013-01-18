@@ -29,7 +29,7 @@ use OpenSRF::AppSession;
 my $U = 'OpenILS::Application::AppUtils';
 
 #my $SEND_EMAILS = 1;
-my $SEND_EMAILS = 0;
+my $SEND_EMAILS = 1;
 
 my $bsconfig = shift || die "usage: $0 <bootstrap_config>\n";
 my @goback = @ARGV;
