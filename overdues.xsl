@@ -232,14 +232,14 @@
                                         </tr> 
                                         <tr class="zebra"> 
                                             <td><xsl:value-of select="callno"/></td> 
-                                            <xsl:choose> 
+                                            <!-- <xsl:choose> 
                                                 <xsl:when test="$use_barcodes = 'true'">
                                                     <td class="barcode">*<xsl:value-of select="barcode"/>*</td>
                                                 </xsl:when> 
                                                 <xsl:otherwise>
                                                     <td></td>
                                                 </xsl:otherwise>
-                                            </xsl:choose>
+                                            </xsl:choose> -->
                                             <td colspan="5"><xsl:value-of select="location"/></td>                 
                                         </tr> 
                                     </xsl:for-each> 
