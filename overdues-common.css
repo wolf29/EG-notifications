@@ -18,7 +18,6 @@ th
     text-decoration: underline;
     font-size: 9pt;
     overflow: hidden;
-    width: 100px;
 }
 td
 {
@@ -26,7 +25,6 @@ td
     padding-left: 2pt;
     padding-right: 2pt;
     overflow: hidden;
-    width: 100px;
 }
 
 /* classes */

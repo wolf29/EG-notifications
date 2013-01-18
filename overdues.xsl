@@ -292,6 +292,7 @@
                                             </xsl:choose>
                                         </td> 
                                     </tr>
+                                    <tr>--</tr>
                                     </tbody>
                                 <!--</xsl:when> -->
                                 <!--<xsl:otherwise> 
