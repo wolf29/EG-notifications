@@ -37,7 +37,7 @@ slim="`echo $myfile | cut -d '.' -f 2 | cut -d '/' -f 2`"
 
 echo "$slim is the stub"
 
-xsltproc /openils/var/data/overdue/overdues.xsl $myfile > "${slim}_print.xml"
+xsltproc /openils/var/data/overdue/ppl-overdues.xsl $myfile > "${slim}_print.xml"
 
 prince_pack="${slim}_print.xml"
 
