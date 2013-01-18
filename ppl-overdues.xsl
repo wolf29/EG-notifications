@@ -240,7 +240,7 @@
                                 <xsl:when test="@count = $notice3_count"> 
                                     <thead> 
                                         <th>Title / Call #</th> 
-                                        <th>Item ID</th> 
+                                        <th>Item ID (Barcode)</th> 
                                         <th>Check Out Date</th> 
                                         <th>Due Date</th> 
                                         <th>Days Overdue</th> 
