@@ -100,7 +100,7 @@ td
 
 .greeting
 {
-    position: relative;
+    position: fixed;
     top: 50px;
     right: 5px; 
     width: 35%;
