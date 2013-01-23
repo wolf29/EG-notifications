@@ -103,6 +103,7 @@ td
     position: relative;
     top: 50px;
     left: 455px;
+    width: 35%;
 }
 
 .greeting p.date
