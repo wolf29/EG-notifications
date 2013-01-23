@@ -214,7 +214,7 @@
                                         <th>Item ID (Barcode)</th> 
                                         <th>Check Out Date</th> 
                                         <th>Due Date</th> 
-                                        <-- <th>Days Overdue</th> -->
+                                        <!-- <th>Days Overdue</th> -->
                                         <th>Item Price</th> 
                                         <th>Fines to Date</th> 
                                     </thead>
