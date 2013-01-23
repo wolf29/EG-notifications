@@ -294,8 +294,94 @@
                                     </tr>
                                     </tbody>
                                 </xsl:when> 
+                                <!-- ################################# -->
                                 <xsl:otherwise> 
+                                    
                                     <thead> 
+                                        <th>Title / Call #</th> 
+                                        <th>Item ID (Barcode)</th> 
+                                        <th>Check Out Date</th> 
+                                        <th>Due Date</th> 
+                                        <th>Days Overdue</th> 
+                                        <th>Item Price</th> 
+                                        <th>Fines to Date</th> 
+                                    </thead>
+                                    <tbody> 
+                                    <xsl:for-each select="item"> 
+                                        <xsl:sort select="title"/> 
+                                        <tr class="zebra"> 
+                                            <td><xsl:value-of select="title"/></td> 
+                                            <td><xsl:value-of select="barcode"/></td> 
+                                            <td><xsl:value-of select="check_out"/></td> 
+                                            <td><span class="due_date"><xsl:value-of select="duedate"/></span></td> 
+                                            <td class="days_overdue"><span class="days_overdue"></span></td> 
+                                            <td class="right">$ <xsl:value-of select="item_price"/></td> 
+                                            <td class="right">$ <xsl:value-of select="fine"/></td> 
+                                        </tr> 
+                                        <tr class="zebra"> 
+                                            <td><xsl:value-of select="callno"/></td> 
+                                            <xsl:choose> 
+                                                <xsl:when test="$use_barcodes = 'true'">
+                                                    <td class="barcode">*<xsl:value-of select="barcode"/>*</td>
+                                                </xsl:when> 
+                                                <xsl:otherwise>
+                                                    <td></td>
+                                                </xsl:otherwise>
+                                            </xsl:choose>
+                                            <td colspan="5"><xsl:value-of select="location"/></td>                 
+                                        </tr> 
+                                    </xsl:for-each> 
+                                    <tr> 
+                                        <td colspan="5"></td> 
+                                        <td colspan="2"><hr /></td> 
+                                    </tr> 
+                                    <tr> 
+                                        <td colspan="5"></td> 
+                                        <td class="center">Total Replacement Cost</td> 
+                                        <td class="center">Total Fines to Date*</td> 
+                                    </tr> 
+                                    <tr> 
+                                        <td colspan="6" class="right">$ 
+                                            <xsl:variable name="replacement_total_a"> 
+                                                <xsl:value-of select="sum(item/item_price)"/> 
+                                            </xsl:variable> 
+                                            <xsl:variable name="replacement_total_b"> 
+                                                <xsl:value-of select="round($replacement_total_a*100)div 100"/> 
+                                            </xsl:variable> 
+                                            <xsl:choose> 
+                                                <xsl:when test="$replacement_total_b=floor($replacement_total_b)"> 
+                                                    <xsl:value-of select="$replacement_total_b"/>.00 
+                                                </xsl:when> 
+                                                <xsl:when test="string-length(substring-after($replacement_total_b,'.'))='1'"> 
+                                                    <xsl:value-of select="$replacement_total_b"/>0 
+                                                </xsl:when> 
+                                                <xsl:otherwise> 
+                                                    <xsl:value-of select="$replacement_total_b"/> 
+                                                </xsl:otherwise> 
+                                            </xsl:choose>
+                                        </td> 
+                                        <td class="right">$ 
+                                            <xsl:variable name="fine_total_a"> 
+                                                <xsl:value-of select="sum(item/fine)"/> 
+                                            </xsl:variable> 
+                                            <xsl:variable name="fine_total_b"> 
+                                                <xsl:value-of select="round($fine_total_a*100)div 100"/> 
+                                            </xsl:variable> 
+                                            <xsl:choose> 
+                                                <xsl:when test="$fine_total_b=floor($fine_total_b)"> 
+                                                    <xsl:value-of select="$fine_total_b"/>.00 
+                                                </xsl:when> 
+                                                <xsl:when test="string-length(substring-after($fine_total_b,'.'))='1'"> 
+                                                    <xsl:value-of select="$fine_total_b"/>0 
+                                                </xsl:when> 
+                                                <xsl:otherwise> 
+                                                    <xsl:value-of select="$fine_total_b"/> 
+                                                </xsl:otherwise> 
+                                            </xsl:choose>
+                                        </td> 
+                                    </tr>
+                                    </tbody>
+                                  <!--  <thead> 
                                         <th>Title</th> 
                                         <th>Author</th> 
                                         <th>Call Number</th> 
@@ -327,7 +413,7 @@
                                             </xsl:when>
                                             <xsl:otherwise>
                                                 <!-- do nothing -->
-                                            </xsl:otherwise>
+                                      <!--      </xsl:otherwise>
                                         </xsl:choose>
                                     </xsl:for-each>
                                     </tbody> 
@@ -339,7 +425,7 @@
                                 <xsl:choose>
                                     <xsl:when test="$max_fine = ''">
                                         <!-- do nothing -->
-                                    </xsl:when>
+                             <!--       </xsl:when>
                                     <xsl:otherwise>
                                         <div class="disclaimer">
                                             <p>
@@ -351,7 +437,7 @@
                             </xsl:when>
                             <xsl:otherwise>
                                 <!-- do nothing -->
-                            </xsl:otherwise>
+                            </xsl:otherwise>  -->
                         </xsl:choose>
                         <div class="generated_date"> 
                             <p> 
