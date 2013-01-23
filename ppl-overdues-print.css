@@ -41,10 +41,11 @@ body
 
 .greeting
 {
-    position: fixed;
-    top: 50px;
-    right: 5px; 
-    width: 35%;
+    position:fixed;
+    top:50px;
+    margin-right:50px;
+    right:5px; 
+    width:35%;
 }
 
 .header_page_num
