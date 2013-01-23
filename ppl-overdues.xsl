@@ -416,7 +416,7 @@
                                       <!--      </xsl:otherwise>
                                         </xsl:choose>
                                     </xsl:for-each>
-                                    </tbody> 
+                                    </tbody> -->
                                 </xsl:otherwise> 
                             </xsl:choose>
                         </table>
@@ -425,7 +425,7 @@
                                 <xsl:choose>
                                     <xsl:when test="$max_fine = ''">
                                         <!-- do nothing -->
-                             <!--       </xsl:when>
+                                    </xsl:when>
                                     <xsl:otherwise>
                                         <div class="disclaimer">
                                             <p>
