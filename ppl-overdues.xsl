@@ -214,7 +214,7 @@
                                         <th>Item ID (Barcode)</th> 
                                         <th>Check Out Date</th> 
                                         <th>Due Date</th> 
-                                        <th>Days Overdue</th> 
+                                        <-- <th>Days Overdue</th> -->
                                         <th>Item Price</th> 
                                         <th>Fines to Date</th> 
                                     </thead>
@@ -226,7 +226,7 @@
                                             <td><xsl:value-of select="barcode"/></td> 
                                             <td><xsl:value-of select="check_out"/></td> 
                                             <td><span class="due_date"><xsl:value-of select="duedate"/></span></td> 
-                                            <td class="days_overdue"><span class="days_overdue"></span></td> 
+                                          <!--  <td class="days_overdue"><span class="days_overdue"></span></td> -->
                                             <td class="right">$ <xsl:value-of select="item_price"/></td> 
                                             <td class="right">$ <xsl:value-of select="fine"/></td> 
                                         </tr> 
@@ -302,7 +302,7 @@
                                         <th>Item ID (Barcode)</th> 
                                         <th>Check Out Date</th> 
                                         <th>Due Date</th> 
-                                        <th>Days Overdue</th> 
+                                  <!--      <th>Days Overdue</th> -->
                                         <th>Item Price</th> 
                                         <th>Fines to Date</th> 
                                     </thead>
@@ -314,7 +314,7 @@
                                             <td><xsl:value-of select="barcode"/></td> 
                                             <td><xsl:value-of select="check_out"/></td> 
                                             <td><span class="due_date"><xsl:value-of select="duedate"/></span></td> 
-                                            <td class="days_overdue"><span class="days_overdue"></span></td> 
+                                       <!--     <td class="days_overdue"><span class="days_overdue"></span></td> -->
                                             <td class="right">$ <xsl:value-of select="item_price"/></td> 
                                             <td class="right">$ <xsl:value-of select="fine"/></td> 
                                         </tr> 
