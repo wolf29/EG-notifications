@@ -100,11 +100,11 @@ td
 
 .greeting
 {
-    position: fixed;
-    top: 50px;
+    position:fixed;
+    top:50px;
     margin-right:50px;
-    right: 5px; 
-    width: 35%;
+    left:555px; 
+    width:35%;
 }
 
 .greeting p.date
