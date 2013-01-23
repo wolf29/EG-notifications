@@ -233,7 +233,7 @@
                                         <tr class="zebra"> 
                                             <td><xsl:value-of select="callno"/></td> 
                                             <xsl:choose> 
-                                                <xsl:when test="$use_barcodes = 'true'">
+                                                <xsl:when test="$use_barcodes = 'false'">
                                                     <td class="barcode">*<xsl:value-of select="barcode"/>*</td>
                                                 </xsl:when> 
                                                 <xsl:otherwise>
@@ -321,7 +321,7 @@
                                         <tr class="zebra"> 
                                             <td><xsl:value-of select="callno"/></td> 
                                             <xsl:choose> 
-                                                <xsl:when test="$use_barcodes = 'true'">
+                                                <xsl:when test="$use_barcodes = 'false'">
                                                     <td class="barcode">*<xsl:value-of select="barcode"/>*</td>
                                                 </xsl:when> 
                                                 <xsl:otherwise>
