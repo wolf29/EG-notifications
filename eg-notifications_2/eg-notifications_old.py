@@ -5,7 +5,7 @@
 #  
 #  Base document code
 #  Copyright   GPLv2 , © 2012 BC Libraries Cooperative
-#  Additions   GPLv3 , © 2013 Wolf Halton <wolf@sourcefreedom.com>
+#  Additions           © 2013 Wolf Halton <wolf@sourcefreedom.com>
 #  
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
@@ -24,7 +24,7 @@
 #  
 #  
 
-from io import StringIO
+from cStringIO import StringIO
 from string import letters, digits
 from xml.dom.minidom import *
 from xml.sax.saxutils import escape
@@ -39,17 +39,17 @@ from smtplib import SMTP
 from base64 import encodestring
 import pprint, sys, time
 
-python_version = "3"
+python_version = "2"
 version = "2"
 
 def prepDataValue(data_value):
 	if data_value == None:
-		return '(No information available)'
+		return u'(No information available)'
 	return data_value.data
 
 def prepPriceValue(data_value):
 	if data_value == None:
-		return '0.00'
+		return u'0.00'
 	return data_value.data
 
 
@@ -115,7 +115,7 @@ for notice in xml_records.getElementsByTagName("notice"):
 	overdue_prices = [prepPriceValue(this.firstChild) for this in notice.getElementsByTagName('price')]
 	overdue_duedates = [this.firstChild.data for this in notice.getElementsByTagName('duedate')]
 
-	overdue_duedates = [time.strftime("%Y-%b-%d", time.strptime(x, "%m/%d/%Y")) for x in overdue_duedates]
+	overdue_duedates = map(lambda x: time.strftime("%Y-%b-%d", time.strptime(x, "%m/%d/%Y")), overdue_duedates)
 
 	## To this point, we've thrown away notices that are not for this library. However, we still
 	## have notices for this library that will be issued for a notice interval they don't use.
@@ -137,17 +137,17 @@ for notice in xml_records.getElementsByTagName("notice"):
 			overdue_noticetype = Paragraph('First Overdue Notice', heading_style)
 			overdue_field_widths = [1.3 * inch, 1.3 * inch, 1.3 * inch, None]
 			overdue_field_headings = [['Due Date', 'Call Number', 'Barcode', 'Title']]
-			overdue_fields = list(zip(overdue_duedates, overdue_callnumbers, overdue_barcodes, overdue_titles))
+			overdue_fields = zip(overdue_duedates, overdue_callnumbers, overdue_barcodes, overdue_titles)
 		if notice_interval == '42 days':
 			overdue_noticetype = Paragraph('Second Overdue Notice', heading_style)
 			overdue_field_widths = [1.3 * inch, 1.3 * inch, 1.3 * inch, None]
 			overdue_field_headings = [['Due Date', 'Call Number', 'Barcode', 'Title']]
-			overdue_fields = list(zip(overdue_duedates, overdue_callnumbers, overdue_barcodes, overdue_titles))
+			overdue_fields = zip(overdue_duedates, overdue_callnumbers, overdue_barcodes, overdue_titles)
 		if notice_interval == '70 days':
 			overdue_noticetype = Paragraph('Final Overdue Notice', heading_style)
 			overdue_field_widths = [1.3 * inch, 1.3 * inch, 1.3 * inch, None, inch]
 			overdue_field_headings = [['Due Date', 'Call Number', 'Barcode', 'Title', 'Price']]
-			overdue_fields = list(zip(overdue_duedates, overdue_callnumbers, overdue_barcodes, overdue_titles, overdue_prices))
+			overdue_fields = zip(overdue_duedates, overdue_callnumbers, overdue_barcodes, overdue_titles, overdue_prices)
 
 		uh_ohes_string = 'Library records show the following item(s) overdue. If you have returned the items, please excuse this notice. Otherwise, please return them as soon as possible to avoid increasing fines. Thank you.'
 	
