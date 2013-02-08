@@ -249,7 +249,7 @@
                                     </tr> 
                                     <tr>--</tr>
                                     <tr> 
-                                        <td colspan="5"></td> 
+                                        <td colspan="5" class="barcode">*<xsl:value-of select="barcode"/>*</td> 
                                         <td class="center">Total Replacement Cost</td> 
                                         <td class="center">Total Fines to Date*</td> 
                                     </tr> 
