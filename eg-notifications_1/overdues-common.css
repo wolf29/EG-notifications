@@ -24,7 +24,7 @@ td
     font-size: 9pt;
     padding-left: 2pt;
     padding-right: 2pt;
-    overflow: hidden;
+    overflow: auto;
 }
 
 /* classes */
