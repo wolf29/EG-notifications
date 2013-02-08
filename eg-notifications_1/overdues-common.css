@@ -24,7 +24,6 @@ td
     font-size: 9pt;
     padding-left: 2pt;
     padding-right: 2pt;
-    overflow: auto;
 }
 
 /* classes */
@@ -160,7 +159,6 @@ td
 
 th, td {
     border: 1px solid black;
-    overflow: auto;
 }
 
 
