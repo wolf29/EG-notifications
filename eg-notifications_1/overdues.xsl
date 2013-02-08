@@ -240,7 +240,8 @@
                                                     <td></td>
                                                 </xsl:otherwise>
                                             </xsl:choose> -->
-                                            <td colspan="5"><xsl:value-of select="location"/></td>                 
+                                            <td colspan="3"><xsl:value-of select="location"/></td>
+                                            <td colspan="2">*<xsl:value-of select="barcode"/>*</td>                 
                                         </tr> 
                                     </xsl:for-each> 
                                     <tr> 
@@ -249,7 +250,7 @@
                                     </tr> 
                                     <tr>--</tr>
                                     <tr> 
-                                        <td colspan="5" class="barcode">*<xsl:value-of select="barcode"/>*</td> 
+                                        <td colspan="5"></td> 
                                         <td class="center">Total Replacement Cost</td> 
                                         <td class="center">Total Fines to Date*</td> 
                                     </tr> 
