@@ -55,6 +55,7 @@
 mkdir -p /openils/var/data/overdue/ppl
 mkdir -p /openils/var/data/overdue/ccpl
 mkdir -p /openils/var/data/overdue/mcat
+mkdir -p /openils/var/data/overdue/mcat-gc
 
 cp -b ./deliver_ppl.pl /openils/bin/deliver_ppl.pl
 cp -b ./oils_header.pl /openils/bin/oils_header.pl
@@ -72,6 +73,10 @@ cp -b ./mcat_od.sh /openils/bin/mcat_od.sh
 cp -b ./deliver_mcat.sh /openils/bin/deliver_mcat.sh
 cp -b ./mcat_od.pl /openils/bin/mcat_od.pl
 cp -b ./mcat_xml_transform.sh /openils/bin/mcat_xml_transform.sh
+cp -b ./mcat-gc_od.sh /openils/bin/mcat-gc_od.sh
+cp -b ./deliver_mcat-gc.sh /openils/bin/deliver_mcat-gc.sh
+cp -b ./mcat-gc_od.pl /openils/bin/mcat-gc_od.pl
+cp -b ./mcat-gc_xml_transform.sh /openils/bin/mcat-gc_xml_transform.sh
 
 chmod +x /openils/bin/*.sh
 chmod +x /openils/bin/*.pl
@@ -84,3 +89,5 @@ cp -b ./*.xsl /openils/var/data/overdue/ccpl/
 cp -b ./*.css /openils/var/data/overdue/ccpl/
 cp -b ./*.xsl /openils/var/data/overdue/mcat/
 cp -b ./*.css /openils/var/data/overdue/mcat/
+cp -b ./*.xsl /openils/var/data/overdue/mcat-gc/
+cp -b ./*.css /openils/var/data/overdue/mcat-gc/
